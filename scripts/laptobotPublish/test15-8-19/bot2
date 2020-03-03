@@ -1,0 +1,1813 @@
+(0.13473416181718009, array([-0.04032303, -0.24530645]))
+('vel', array([[-0.00181297],
+       [-0.00010904]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00144927],
+        [-0.00224464]]))
+('pwm_original', rightInput: [[ 26.08685496]]
+leftInput: [[-40.40348219]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.63960851 -1.63082158  0.94481107  0.93706975]
+ [ 0.24358893  0.25889356 -1.91324076 -1.87401974]]
+[ERROR] [1565868827.561855]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.595432]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.642554]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.674603]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.725737]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.764143]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.805137]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.834112]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.885024]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.918910]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.963692]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868827.994570]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868828.043017]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868828.075623]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868828.122652]: bad callback: <function callback at 0x7f4a35782b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot2.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+(0.18190140511850947, array([ 0.24025482, -0.38349795]))
+('vel', array([[ -8.61818995e-06],
+       [ -6.47513585e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00098252],
+        [-0.0052781 ]]))
+('pwm_original', rightInput: [[ 17.68536001]]
+leftInput: [[-95.00586304]])
+('pwm', rightInput: 90
+leftInput: [[-95.00586304]])
+[[-1.60530544 -1.63084506  0.96321752  0.98884845]
+ [ 0.24689     0.25885532 -1.94465594 -1.94822742]]
+(0.68152532937461163, array([ 0.4889911 , -0.40540653]))
+('vel', array([[-0.19572872],
+       [-0.01685768]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00612627],
+        [-0.01059123]]))
+('pwm_original', rightInput: [[ 110.27287619]]
+leftInput: [[-190.64221037]])
+('pwm', rightInput: [[ 110.27287619]]
+leftInput: [[-190.64221037]])
+[[-1.60536205 -1.63083473 -2.00599374  1.00834682]
+ [ 0.24684309  0.258866   -2.0560842  -1.9011677 ]]
+(0.041374667672023656, array([-0.05868643, -0.07064859]))
+('vel', array([[ 0.04776216],
+       [ 0.00302062]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00085381],
+        [-0.000136  ]]))
+('pwm_original', rightInput: [[ 15.3686576]]
+leftInput: [[-2.44795489]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60536374 -1.63085758 -2.00595475  0.97873189]
+ [ 0.24686809  0.25885894 -2.05604801 -1.86403027]]
+(0.040830693459814986, array([-0.05840297, -0.069764  ]))
+('vel', array([[ -2.97486828e-05],
+       [ -1.48139674e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00094971],
+        [-0.00011887]]))
+('pwm_original', rightInput: [[ 17.09471761]]
+leftInput: [[-2.13962072]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60547165 -1.63083235 -2.00595076  0.93361523]
+ [ 0.24687434  0.25886814 -2.056064   -1.84840656]]
+(0.040022076240194181, array([-0.05796448, -0.06839069]))
+('vel', array([[ -3.03704870e-02],
+       [  2.97823653e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  9.74388657e-04],
+        [ -7.81975909e-05]]))
+('pwm_original', rightInput: [[ 17.53899583]]
+leftInput: [[-1.40755664]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60534496 -1.63087033 -2.005953    0.8993624 ]
+ [ 0.24686637  0.25888541 -2.05605846 -1.89876325]]
+(0.039533781058667977, array([-0.057697  , -0.06745705]))
+('vel', array([[ 0.0332977 ],
+       [ 0.01433467]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  6.75894554e-04],
+        [  5.38999601e-05]]))
+('pwm_original', rightInput: [[ 12.16610198]]
+leftInput: [[ 0.97019928]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[-1.6052454  -1.63085275 -2.00590459  0.97188319]
+ [ 0.24677632  0.25885287 -2.05597837 -1.9643655 ]]
+(0.040908025824009639, array([-0.05845169, -0.06973311]))
+('vel', array([[ 0.07700597],
+       [ 0.02867546]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0004316],
+        [ 0.0002059]]))
+('pwm_original', rightInput: [[ 7.76886187]]
+leftInput: [[ 3.70622085]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[-1.60522744 -1.63086803 -2.00598048  0.97010882]
+ [ 0.24685069  0.25882559 -2.05605396 -1.89653392]]
+(0.040695437149402339, array([-0.05833197, -0.06947269]))
+('vel', array([[ 0.06412046],
+       [-0.01542836]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00109376],
+        [-0.00042512]]))
+('pwm_original', rightInput: [[ 19.68775477]]
+leftInput: [[-7.65217452]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60514617 -1.63084546 -2.00590209  0.94338161]
+ [ 0.24680689  0.25882617 -2.05600104 -1.84520551]]
+(0.040214233039887894, array([-0.05806808, -0.06871534]))
+('vel', array([[-0.0095631 ],
+       [-0.00351201]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00100347],
+        [-0.00015612]]))
+('pwm_original', rightInput: [[ 18.06252976]]
+leftInput: [[-2.81009104]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60513593 -1.63084652 -2.00604501  0.92016887]
+ [ 0.24673871  0.2588176  -2.05616121 -1.89464243]]
+(0.039880846378766578, array([-0.05787863, -0.06806278]))
+('vel', array([[ 0.1186803 ],
+       [ 0.01332609]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  5.89579092e-04],
+        [ -6.82779308e-05]]))
+('pwm_original', rightInput: [[ 10.61242365]]
+leftInput: [[-1.22900275]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60527856 -1.6308412  -2.0059739   0.91336247]
+ [ 0.24692043  0.25884025 -2.05602826 -1.92998514]]
+(0.039824645360087556, array([-0.05786326, -0.06790595]))
+('vel', array([[-0.14310164],
+       [ 0.01277396]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0009236 ],
+        [ 0.00025063]]))
+('pwm_original', rightInput: [[ 16.62485864]]
+leftInput: [[ 4.51141675]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[-1.60527949 -1.63084106 -2.00602806  0.9627215 ]
+ [ 0.24694341  0.25881994 -2.05613585 -1.953749  ]]
+(0.040727527952972714, array([-0.05835311, -0.06943128]))
+('vel', array([[ -2.64783359e-05],
+       [ -1.24593357e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00094685],
+        [-0.00011869]]))
+('pwm_original', rightInput: [[ 17.04338794]]
+leftInput: [[-2.13636085]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60524445 -1.63082666 -2.00593229  0.93169448]
+ [ 0.24690431  0.25886481 -2.05601009 -1.91233003]]
+(0.040082130346177101, array([-0.05800426, -0.06838551]))
+('vel', array([[-0.01965292],
+       [-0.00017549]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  9.64126767e-04],
+        [ -9.45100934e-05]]))
+('pwm_original', rightInput: [[ 17.35428181]]
+leftInput: [[-1.70118168]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60528311 -1.63084751 -2.00598378  0.8751811 ]
+ [ 0.24690721  0.25887007 -2.05604869 -1.90233951]]
+(0.039163691095400001, array([-0.05748627, -0.06679621]))
+('vel', array([[-0.03720707],
+       [-0.00248611]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0010053 ],
+        [-0.00010425]]))
+('pwm_original', rightInput: [[ 18.09541533]]
+leftInput: [[-1.87653523]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.605216   -1.63084118 -2.0059922   0.94276053]
+ [ 0.24686039  0.25883129 -2.0561261  -1.88460126]]
+(0.040214452982125677, array([-0.05807099, -0.06867243]))
+('vel', array([[-0.02400409],
+       [-0.00141059]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00099029],
+        [-0.00010786]]))
+('pwm_original', rightInput: [[ 17.82525655]]
+leftInput: [[-1.94140802]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60529974 -1.6308408  -2.00591936  0.93956495]
+ [ 0.24688265  0.25884589 -2.05603865 -1.93610299]]
+(0.040290696022231315, array([-0.05812094, -0.06868762]))
+('vel', array([[ 0.00786456],
+       [-0.00468462]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00099891],
+        [-0.00019648]]))
+('pwm_original', rightInput: [[ 17.98043717]]
+leftInput: [[-3.53665712]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 0.6186509  -1.63083006 -2.00599339  2.91599908]
+ [-2.38961563  0.25884453 -2.05611921 -0.52820912]]
+(0.037772524417664433, array([-0.05671019, -0.06339951]))
+('vel', array([[ 0.08277843],
+       [ 0.05262911]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00085826],
+        [ 0.00089508]]))
+('pwm_original', rightInput: [[-15.44868234]]
+leftInput: [[ 16.11142568]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 0.59238799 -1.63084047 -2.00597583  0.88704122]
+ [-2.4411827   0.25884905 -2.05607827 -1.96084261]]
+(0.037659247897154677, array([-0.05663534, -0.06318778]))
+('vel', array([[ 156.5916503 ],
+       [   1.36265056]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.21560461],
+        [-0.17538538]]))
+('pwm_original', rightInput: [[-3880.88292705]]
+leftInput: [[-3156.93688613]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 0.59289112 -1.63086377 -2.00597199  0.87557909]
+ [-2.43921802  0.25887239 -2.05607256 -1.99323476]]
+(0.037649996827652729, array([-0.05662951, -0.06317178]))
+('vel', array([[-0.83936272],
+       [-0.06235521]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00251937],
+        [ 0.00052086]]))
+('pwm_original', rightInput: [[ 45.34862909]]
+leftInput: [[ 9.37553803]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 0.5933236  -1.63085242 -2.00601916  0.85917615]
+ [-2.43847932  0.25883853 -2.05609599 -2.03976976]]
+(0.037649996827652729, array([-0.05662951, -0.06317178]))
+('vel', array([[-0.68158859],
+       [-0.04900155]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00218017],
+        [ 0.0005117 ]]))
+('pwm_original', rightInput: [[ 39.24299088]]
+leftInput: [[ 9.2106849]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 0.59904862 -1.63082888 -2.00591844  0.8795339 ]
+ [-2.42595049  0.25885819 -2.05601541 -2.01043834]]
+(0.037634622736931266, array([-0.05662103, -0.06315344]))
+('vel', array([[-0.56616729],
+       [-0.07391004]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  2.37054725e-03],
+        [  6.83802828e-06]]))
+('pwm_original', rightInput: [[ 42.66985046]]
+leftInput: [[ 0.12308451]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 0.61456264 -1.63085103 -2.00596791  0.88072197]
+ [-2.24978108  0.25891645 -2.05607518 -2.07614252]]
+(0.036754181480753212, array([-0.05607526, -0.0618834 ]))
+('vel', array([[-0.86436936],
+       [-0.05815058]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00226883],
+        [-0.0006578 ]]))
+('pwm_original', rightInput: [[ 40.83898502]]
+leftInput: [[-11.84048654]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 0.62000735 -1.63082572 -2.00605951  0.86513594]
+ [-2.26578239  0.25881987 -2.05614487 -2.10447439]]
+(0.036924133656917192, array([-0.05618597, -0.06215562]))
+('vel', array([[-0.97435291],
+       [-0.06769435]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00257196],
+        [-0.00065746]]))
+('pwm_original', rightInput: [[ 46.29535827]]
+leftInput: [[-11.8343462]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 0.62004799 -1.63084563 -2.00595707  0.83481096]
+ [-2.26630179  0.25888714 -2.05605273 -2.07567448]]
+(0.036924133656917192, array([-0.05618597, -0.06215562]))
+('vel', array([[ -4.76633196e-04],
+       [ -4.18304362e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00036686],
+        [-0.00087764]]))
+('pwm_original', rightInput: [[ 6.60351732]]
+leftInput: [[-15.79751407]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.63151734 -1.63085411 -2.0060313   0.8730839 ]
+ [ 0.23461763  0.25887704 -2.05608776 -2.0626745 ]]
+(0.039628143522301727, array([-0.05757441, -0.06744893]))
+('vel', array([[-0.04411312],
+       [ 0.33345015]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00511598],
+        [ 0.00468451]]))
+('pwm_original', rightInput: [[-92.08758557]]
+leftInput: [[ 84.32124]])
+('pwm', rightInput: [[-92.08758557]]
+leftInput: 90)
+[[ 0.60869794 -1.63084368 -2.00604161  0.87938076]
+ [-2.22028654  0.25883443 -2.05616555 -2.1266806 ]]
+(0.036494973841678595, array([-0.05590589, -0.06149278]))
+('vel', array([[ 1.99042539],
+       [ 0.02642185]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0028489 ],
+        [-0.00190202]]))
+('pwm_original', rightInput: [[-51.28012023]]
+leftInput: [[-34.23643529]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[-1.60508479 -1.63084279 -2.0059648   0.85271226]
+ [ 0.24665532  0.25886409 -2.05606812 -2.10204951]]
+(0.039375263269998809, array([-0.05759989, -0.06681927]))
+('vel', array([[-9.52313564],
+       [-3.88162983]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.06990793],
+        [-0.04533344]]))
+('pwm_original', rightInput: [[ 1258.34265077]]
+leftInput: [[-816.00197196]])
+('pwm', rightInput: 255
+leftInput: -255)
+[[ 0.59947551 -1.6308451  -2.00596464  0.84165556]
+ [-2.26311504  0.25882134 -2.05610054 -2.09008217]]
+(0.036629479024488008, array([-0.05599091, -0.06165207]))
+('vel', array([[ 0.07496471],
+       [ 0.00071619]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00030216],
+        [-0.00013088]]))
+('pwm_original', rightInput: [[-5.43891038]]
+leftInput: [[-2.35584534]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 0.59721711 -1.63083115 -2.00596464  0.87413952]
+ [-2.25964968  0.25884262 -2.05610054 -2.09964208]]
+(0.036570910758693197, array([-0.05595198, -0.0615548 ]))
+('vel', array([[ 2.09418677],
+       [-0.03477618]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0023814 ],
+        [-0.00334016]]))
+('pwm_original', rightInput: [[-42.86523066]]
+leftInput: [[-60.12292988]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17989158 -1.63084171 -2.00590473  0.88451694]
+ [-0.10495223  0.25884254 -2.05604344 -2.04692072]]
+(0.039985910844201229, array([-0.0580621 , -0.06779914]))
+('vel', array([[ 0.00490157],
+       [-0.00043233]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00119996],
+        [-0.00092704]]))
+('pwm_original', rightInput: [[-21.59936523]]
+leftInput: [[-16.68676174]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17990555 -1.63084234 -2.00597696  0.84958087]
+ [-0.10497273  0.25892319 -2.05610079 -2.03697136]]
+(0.039325614523507149, array([-0.05768573, -0.06666135]))
+('vel', array([[ 0.01895069],
+       [-0.00130838]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00118351],
+        [-0.0009501 ]]))
+('pwm_original', rightInput: [[-21.30323703]]
+leftInput: [[-17.10186827]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17989066 -1.6308444  -2.00599183  0.88724009]
+ [-0.10495514  0.25885679 -2.05612411 -2.06199308]]
+(0.039985910844201229, array([-0.0580621 , -0.06779914]))
+('vel', array([[-0.01305685],
+       [ 0.00057342]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00119232],
+        [-0.00088976]]))
+('pwm_original', rightInput: [[-21.46167728]]
+leftInput: [[-16.0155901]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17988262 -1.63082525 -2.0059905   0.84599981]
+ [-0.1049304   0.25884024 -2.05612945 -2.0777676 ]]
+(0.039325614523507149, array([-0.05768573, -0.06666135]))
+('vel', array([[-0.00292881],
+       [-0.0001114 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00117378],
+        [-0.00090505]]))
+('pwm_original', rightInput: [[-21.12807836]]
+leftInput: [[-16.29094633]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17989613 -1.63081369 -2.00589643  0.9055585 ]
+ [-0.10493206  0.25881487 -2.05600973 -2.03639726]]
+(0.040137384626214571, array([-0.05814541, -0.06814433]))
+('vel', array([[ 0.020963 ],
+       [-0.0015164]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00120929],
+        [-0.00096405]]))
+('pwm_original', rightInput: [[-21.76713129]]
+leftInput: [[-17.35282175]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.1799257  -1.63083567 -2.00587934  0.90404841]
+ [-0.104977    0.2588421  -2.05601525 -2.02319364]]
+(0.040120797502158967, array([-0.05813628, -0.0681095 ]))
+('vel', array([[-0.00660292],
+       [ 0.00094767]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0012105 ],
+        [-0.00089327]]))
+('pwm_original', rightInput: [[-21.7890742]]
+leftInput: [[-16.07888664]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17995327 -1.63082847 -2.00591469  0.99319993]
+ [-0.10503616  0.25883854 -2.05601681 -2.11583311]]
+(0.042090469481177853, array([-0.05917484, -0.07132154]))
+('vel', array([[-0.00200573],
+       [-0.00033276]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00125922],
+        [-0.00094033]]))
+('pwm_original', rightInput: [[-22.66588669]]
+leftInput: [[-16.9259052]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17991355 -1.63082455 -2.00602007  1.09043938]
+ [-0.10492746  0.25882625 -2.05609789 -2.25482235]]
+(0.044774999180938899, array([-0.06040989, -0.07567914]))
+('vel', array([[-0.01438994],
+       [ 0.00174041]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0013571 ],
+        [-0.00092422]]))
+('pwm_original', rightInput: [[-24.4278529]]
+leftInput: [[-16.63593917]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17990474 -1.63082106 -2.00595906  1.19814387]
+ [-0.10492679  0.25885619 -2.05609958 -2.36696805]]
+(0.047939277079740369, array([-0.06163331, -0.08090371]))
+('vel', array([[-0.00431742],
+       [ 0.00027413]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00144449],
+        [-0.00099212]]))
+('pwm_original', rightInput: [[-26.00078683]]
+leftInput: [[-17.85824145]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17979861 -1.63081742 -2.00597579  1.26379036]
+ [-0.10482768  0.25882991 -2.05611346 -2.35274595]]
+(0.049330537757777661, array([-0.06210985, -0.08331553]))
+('vel', array([[ 0.00907137],
+       [-0.00781549]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00138492],
+        [-0.00113983]]))
+('pwm_original', rightInput: [[-24.92853246]]
+leftInput: [[-20.51693877]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17976375 -1.63083245 -2.00591449  1.33665756]
+ [-0.10488687  0.25884008 -2.0560577  -2.28211097]]
+(0.050398936165798547, array([-0.06245773, -0.08529221]))
+('vel', array([[-0.03062922],
+       [-0.00200267]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0014538 ],
+        [-0.00101355]]))
+('pwm_original', rightInput: [[-26.16837135]]
+leftInput: [[-18.24395212]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17974564 -1.63081775 -2.00597165  1.37426434]
+ [-0.10492263  0.25882518 -2.05610206 -2.24187285]]
+(0.051017683697334941, array([-0.0626469 , -0.08643035]))
+('vel', array([[ -1.47492875e-05],
+       [ -2.95798096e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00154049],
+        [-0.00102747]]))
+('pwm_original', rightInput: [[-27.7288631]]
+leftInput: [[-18.49437069]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17969876 -1.63083288 -2.00599132  1.37426268]
+ [-0.10503385  0.25891168 -2.05611593 -2.2418271 ]]
+(0.051017683697334941, array([-0.0626469 , -0.08643035]))
+('vel', array([[-0.01484917],
+       [-0.00053684]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0015149 ],
+        [-0.00101158]]))
+('pwm_original', rightInput: [[-27.26823015]]
+leftInput: [[-18.20847946]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17970709 -1.630814   -2.00591854  1.34668733]
+ [-0.10505854  0.25884187 -2.0560552  -2.19163345]]
+(0.049906491152200319, array([-0.06231727, -0.08466582]))
+('vel', array([[  1.48538755e-05],
+       [ -1.82272648e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00150847],
+        [-0.0010106 ]]))
+('pwm_original', rightInput: [[-27.15253531]]
+leftInput: [[-18.19076888]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17968383 -1.63082761 -2.00600653  1.44943159]
+ [-0.10505202  0.25889909 -2.0561431  -2.17965572]]
+(0.05245748399679484, array([-0.06305381, -0.0890577 ]))
+('vel', array([[ 0.00037043],
+       [ 0.00014696]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0015877 ],
+        [-0.00103368]]))
+('pwm_original', rightInput: [[-28.57852849]]
+leftInput: [[-18.60628427]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17971356 -1.63080368 -2.00598225  1.46496841]
+ [-0.10508225  0.25880834 -2.05614658 -2.2069777 ]]
+(0.053033140377105929, array([-0.06320122, -0.09001034]))
+('vel', array([[ 0.01128841],
+       [-0.00025832]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00161253],
+        [-0.00105817]]))
+('pwm_original', rightInput: [[-29.02561684]]
+leftInput: [[-19.04707093]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17969919 -1.63080165 -2.00597958  1.47183124]
+ [-0.10509545  0.25885715 -2.05612    -2.11935766]]
+(0.052553187433562645, array([-0.06308352, -0.08940047]))
+('vel', array([[-0.03098031],
+       [ 0.00139947]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00157045],
+        [-0.00097615]]))
+('pwm_original', rightInput: [[-28.26817895]]
+leftInput: [[-17.57070641]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17970104 -1.63081304 -2.00594227  1.46115272]
+ [-0.1050935   0.25884766 -2.05607759 -2.02674851]]
+(0.051705637887480227, array([-0.06285468, -0.08807742]))
+('vel', array([[ 0.00990359],
+       [-0.00068507]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00156617],
+        [-0.00104836]]))
+('pwm_original', rightInput: [[-28.19102637]]
+leftInput: [[-18.87045451]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17970337 -1.63083167 -2.00596094  1.57392815]
+ [-0.10509874  0.25884197 -2.0560724  -1.95147134]]
+(0.054638608574820793, array([-0.06358641, -0.09334249]))
+('vel', array([[  4.26083139e-06],
+       [ -4.22621845e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00165205],
+        [-0.00105188]]))
+('pwm_original', rightInput: [[-29.73685416]]
+leftInput: [[-18.93377106]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17970417 -1.63080724 -2.00594446  1.70389133]
+ [-0.10510916  0.25883429 -2.05608573 -1.97995741]]
+(0.058732605281094079, array([-0.06436353, -0.10032263]))
+('vel', array([[-0.0074902 ],
+       [ 0.00102357]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00177776],
+        [-0.00106446]]))
+('pwm_original', rightInput: [[-31.99973942]]
+leftInput: [[-19.16029727]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17971033 -1.63080841 -2.00594772  1.80530076]
+ [-0.1051128   0.25882012 -2.05611326 -2.00057775]]
+(0.062143220947825172, array([-0.06480486, -0.10620267]))
+('vel', array([[  9.13343876e-06],
+       [ -2.31794341e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0018709 ],
+        [-0.00111816]]))
+('pwm_original', rightInput: [[-33.67616431]]
+leftInput: [[-20.12689985]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17975319 -1.63083625 -2.00599703  1.73460958]
+ [-0.10507225  0.25883925 -2.05612544 -2.17376034]]
+(0.060805523624688496, array([-0.06464976, -0.103502  ]))
+('vel', array([[ 0.01111034],
+       [-0.00019213]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00184192],
+        [-0.00112543]]))
+('pwm_original', rightInput: [[-33.15461917]]
+leftInput: [[-20.25781517]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17977305 -1.63080645 -2.00594729  1.66453676]
+ [-0.10507285  0.25886842 -2.05612778 -2.24295615]]
+(0.059149574761021693, array([-0.06441759, -0.10046993]))
+('vel', array([[ 0.02065976],
+       [-0.00183131]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00178104],
+        [-0.00114794]]))
+('pwm_original', rightInput: [[-32.0586953]]
+leftInput: [[-20.66287793]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.17979829 -1.63080636 -2.00590138  1.49928939]
+ [-0.10508429  0.25886093 -2.05604424 -2.1581819 ]]
+(0.053620598421613576, array([-0.06334982, -0.09111163]))
+('vel', array([[-0.00383276],
+       [ 0.00100932]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00163023],
+        [-0.00102511]]))
+('pwm_original', rightInput: [[-29.3441806]]
+leftInput: [[-18.45192276]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.25106424 -1.63080563 -2.00591248  1.52328173]
+ [-0.12011155  0.25884785 -2.05605622 -2.02598251]]
+(0.053751695318827966, array([-0.06338565, -0.09155624]))
+('vel', array([[ 5.95921245],
+       [-0.02165616]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00878704],
+        [-0.00878224]]))
+('pwm_original', rightInput: [[-158.16679132]]
+leftInput: [[-158.08024825]])
+('pwm', rightInput: [[-158.16679132]]
+leftInput: [[-158.08024825]])
+[[ 3.27392487 -1.63079721 -2.00598922  1.65087299]
+ [-0.12619976  0.25883157 -2.05618176 -1.97279201]]
+(0.056945644106933362, array([-0.06405838, -0.09728837]))
+('vel', array([[ 3.36222534],
+       [ 0.02037697]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00626635],
+        [-0.00492937]]))
+('pwm_original', rightInput: [[-112.79430148]]
+leftInput: [[-88.72865034]])
+('pwm', rightInput: [[-112.79430148]]
+leftInput: -90)
+[[ 3.27497065 -1.63081417 -2.0059911   1.74016041]
+ [-0.12636499  0.25883875 -2.05615141 -2.06627031]]
+(0.059734564538855055, array([-0.06451382, -0.10190297]))
+('vel', array([[  9.94556750e-04],
+       [  2.96951969e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00184833],
+        [-0.00104986]]))
+('pwm_original', rightInput: [[-33.27001916]]
+leftInput: [[-18.8974991]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[-2.18453407 -1.6308156  -2.0060204   1.68709475]
+ [-1.86811152  0.25882514 -2.05620277 -2.18629905]]
+(0.04670524481609311, array([-0.03901949, -0.08361897]))
+('vel', array([[ 0.75781755],
+       [ 0.00685012]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00108591],
+        [-0.00154229]]))
+('pwm_original', rightInput: [[-19.54633411]]
+leftInput: [[-27.76128396]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[-2.2023797  -1.63081276 -2.00592957  1.54959725]
+ [-1.86735818  0.25886894 -2.05606897 -2.10452954]]
+(0.042671473713211387, array([-0.03904033, -0.07656722]))
+('vel', array([[ 1.44841714],
+       [-0.02052389]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00150409],
+        [-0.00275101]]))
+('pwm_original', rightInput: [[-27.07366295]]
+leftInput: [[-49.5181598]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 0.56830097 -1.63082995 -2.00596984  1.43278215]
+ [-2.25233772  0.25881106 -2.05610752 -2.10109163]]
+(0.036137312529794352, array([-0.05565851, -0.06081283]))
+('vel', array([[-10204.46843373],
+       [   203.80543188]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  9.75910895],
+        [ 15.75304458]]))
+('pwm_original', rightInput: [[ 175663.9611051]]
+leftInput: [[ 283554.80245059]])
+('pwm', rightInput: 255
+leftInput: 255)
+[[ 0.59468636 -1.63082251 -2.00601373  1.3500389 ]
+ [-2.25607896  0.25881219 -2.05616791 -2.05284807]]
+(0.036534263462509042, array([-0.05592789, -0.06149818]))
+('vel', array([[ 0.14997097],
+       [ 0.00123861]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00046306],
+        [-0.00033766]]))
+('pwm_original', rightInput: [[-8.33512734]]
+leftInput: [[-6.07779707]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 0.59466914 -1.63081976 -2.00597874  1.32605133]
+ [-2.25608216  0.25881602 -2.05612851 -1.98577595]]
+(0.036534263462509042, array([-0.05592789, -0.06149818]))
+('vel', array([[ 0.03861636],
+       [-0.00039581]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00031789],
+        [-0.00026998]]))
+('pwm_original', rightInput: [[-5.72200417]]
+leftInput: [[-4.85960146]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 0.59466936 -1.63080599 -2.00600125  1.30899148]
+ [-2.2560716   0.25879926 -2.05618703 -1.93496131]]
+(0.036534263462509042, array([-0.05592789, -0.06149818]))
+('vel', array([[  1.03882566e-02],
+       [ -6.26968636e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00028759],
+        [-0.00023004]]))
+('pwm_original', rightInput: [[-5.17655377]]
+leftInput: [[-4.1407153]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 0.5946499  -1.63081569 -2.00592207  2.05853051]
+ [-2.25606421  0.25885148 -2.05609104  0.9119877 ]]
+(0.036534263462509042, array([-0.05592789, -0.06149818]))
+('vel', array([[ 0.00747357],
+       [-0.00147414]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00026321],
+        [-0.00024723]]))
+('pwm_original', rightInput: [[-4.73773583]]
+leftInput: [[-4.45016018]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.1540307  -1.63083271 -2.00589527  1.48467924]
+ [ 0.18666451  0.2589006  -2.05608568 -1.92031708]]
+(0.052120798421548944, array([-0.06296247, -0.08903255]))
+('vel', array([[-1.15949364],
+       [ 0.00960698]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00141096],
+        [-0.00024814]]))
+('pwm_original', rightInput: [[ 25.39729781]]
+leftInput: [[-4.46654435]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.15363226 -1.6308014  -2.00591891  1.36118331]
+ [ 0.18589702  0.25884717 -2.05608571 -2.00788457]]
+(0.049300972872782178, array([-0.06212652, -0.08400368]))
+('vel', array([[ -8.92611654e-04],
+       [  1.18420387e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00012863],
+        [-0.00176694]]))
+('pwm_original', rightInput: [[ 2.31528243]]
+leftInput: [[-31.80498316]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.1473204  -1.63080787 -2.00601977  1.32896758]
+ [ 0.17709049  0.25885879 -2.05618312 -2.1795719 ]]
+(0.049445236209441946, array([-0.06216976, -0.08386484]))
+('vel', array([[-0.63194126],
+       [ 0.0596465 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  1.61539597e-04],
+        [ -7.78470285e-05]]))
+('pwm_original', rightInput: [[ 2.90771275]]
+leftInput: [[-1.40124651]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.1469256  -1.63082582 -2.00606618  1.31380267]
+ [ 0.17689177  0.25881065 -2.05620357 -2.39155521]]
+(0.050870782966062421, array([-0.06257933, -0.08587131]))
+('vel', array([[ -2.92354469e-04],
+       [  2.42455027e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00025623],
+        [-0.00177379]]))
+('pwm_original', rightInput: [[ 4.61217352]]
+leftInput: [[-31.92813311]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.14653277 -1.63080926 -2.00592798  1.35973045]
+ [ 0.17675492  0.25882985 -2.0561214  -2.41369465]]
+(0.052231813716263252, array([-0.06295922, -0.08818038]))
+('vel', array([[ -2.25491165e-04],
+       [  2.52417063e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00026148],
+        [-0.00180383]]))
+('pwm_original', rightInput: [[ 4.70664568]]
+leftInput: [[-32.46890687]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.140136   -1.6307992  -2.00594897  1.3827193 ]
+ [ 0.17116903  0.25886109 -2.05613292 -2.36734517]]
+(0.052331499206938643, array([-0.0629957 , -0.08845094]))
+('vel', array([[-0.61812735],
+       [ 0.05306375]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00047078],
+        [-0.00018729]]))
+('pwm_original', rightInput: [[ 8.47407664]]
+leftInput: [[-3.37114656]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.13977128 -1.6307993  -2.0059763   1.35114791]
+ [ 0.17090867  0.25888533 -2.05613044 -2.38466434]]
+(0.051702831322514915, array([-0.06282073, -0.08733115]))
+('vel', array([[ -3.13093614e-04],
+       [  2.59192874e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00049341],
+        [-0.00171919]]))
+('pwm_original', rightInput: [[ 8.88138609]]
+leftInput: [[-30.94545337]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.13940706 -1.63081249 -2.00593672  1.35240047]
+ [ 0.17068501  0.25883385 -2.05611064 -2.43077504]]
+(0.052266426849002262, array([-0.06296428, -0.0882011 ]))
+('vel', array([[ -2.69023335e-04],
+       [  2.62680499e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00050732],
+        [-0.00172645]]))
+('pwm_original', rightInput: [[ 9.13168962]]
+leftInput: [[-31.07604697]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.11952572 -1.63079185 -2.00594917  1.39019095]
+ [ 0.17412359  0.25884185 -2.05607822 -2.43447882]]
+(0.053201942405019111, array([-0.06320563, -0.08980227]))
+('vel', array([[-0.67913291],
+       [ 0.12286116]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  2.14917646e-05],
+        [  1.16488461e-03]]))
+('pwm_original', rightInput: [[ 0.38685176]]
+leftInput: [[ 20.9679229]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.10635028 -1.63083652 -2.00595095  1.40031268]
+ [ 0.13337389  0.25886024 -2.0560962  -2.39001785]]
+(0.053030891768898053, array([-0.06317243, -0.08960199]))
+('vel', array([[-1.01973744],
+       [ 0.07066297]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00211386],
+        [ 0.00225907]]))
+('pwm_original', rightInput: [[ 38.04948155]]
+leftInput: [[ 40.66317051]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.19011218 -1.63079747 -2.00593672  1.3826443 ]
+ [ 0.26737705  0.25888944 -2.05607479 -2.41518608]]
+(0.052840458295081383, array([-0.06311739, -0.08921119]))
+('vel', array([[-0.01427569],
+       [ 0.0004356 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00124615],
+        [-0.00103807]]))
+('pwm_original', rightInput: [[-22.43078775]]
+leftInput: [[-18.68533714]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.18692521 -1.6307917  -2.00597097  1.39882101]
+ [ 0.26863889  0.25884959 -2.05612374 -2.45035749]]
+(0.053676271685721005, array([-0.06331682, -0.09057016]))
+('vel', array([[-0.49882524],
+       [ 0.02014498]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00093395],
+        [-0.00020172]]))
+('pwm_original', rightInput: [[-16.81117283]]
+leftInput: [[-3.63088015]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.18571879 -1.63078268 -2.00594936  1.43103578]
+ [ 0.26902583  0.25885308 -2.05608732 -2.47091464]]
+(0.054792051906686685, array([-0.06356906, -0.09243816]))
+('vel', array([[-0.12823429],
+       [ 0.00429403]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0011843 ],
+        [-0.00092779]]))
+('pwm_original', rightInput: [[-21.31742708]]
+leftInput: [[-16.70024627]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.18532399 -1.63080629 -2.00599853  1.51859417]
+ [ 0.26912535  0.25883162 -2.05616003 -2.43196707]]
+(0.056730056509040179, array([-0.06397796, -0.09587919]))
+('vel', array([[ -3.50725654e-04],
+       [  9.97996955e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00132654],
+        [-0.00117499]]))
+('pwm_original', rightInput: [[-23.87764104]]
+leftInput: [[-21.14988686]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.17986362 -1.63078376 -2.00596303  1.49712992]
+ [ 0.27070753  0.25885966 -2.05610415 -2.33140914]]
+(0.055008398845038164, array([-0.06364868, -0.09313242]))
+('vel', array([[-0.90821397],
+       [ 0.04219224]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00073718],
+        [ 0.00051234]]))
+('pwm_original', rightInput: [[-13.269172]]
+leftInput: [[ 9.22209333]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 2.17947102 -1.63078953 -2.00605799  2.10942831]
+ [ 0.27084871  0.25886335 -2.05619671  0.73763516]]
+(0.14237365221021248, array([-0.03817908, -0.25802139]))
+('vel', array([[ -3.57248268e-04],
+       [  1.51373590e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00321854],
+        [-0.00184009]]))
+('pwm_original', rightInput: [[-57.93376417]]
+leftInput: [[-33.12170969]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.17908449 -1.63076031 -2.00599718  1.22576199]
+ [ 0.27095897  0.25883216 -2.05614202 -2.37343533]]
+(0.048618298704807099, array([-0.06186777, -0.08204693]))
+('vel', array([[ -3.85449328e-04],
+       [  1.41780149e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00109035],
+        [-0.00118134]]))
+('pwm_original', rightInput: [[-19.62625282]]
+leftInput: [[-21.26405284]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 3.0140293  -1.63079672 -2.00593143  1.16965334]
+ [-0.1662107   0.25884371 -2.0561381  -2.56400697]]
+(0.049497530237675461, array([-0.06210842, -0.08315648]))
+('vel', array([[-2.33880298],
+       [ 0.0127171 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00231402],
+        [ 0.00419163]]))
+('pwm_original', rightInput: [[ 41.65229643]]
+leftInput: [[ 75.44936631]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 3.01360034 -1.63079005 -2.00595375  1.23004491]
+ [-0.1547534   0.25884032 -2.05610483 -2.68984936]]
+(0.052750370285401832, array([-0.06300117, -0.08843976]))
+('vel', array([[-2.34119505],
+       [ 0.01149935]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00227351],
+        [ 0.00423218]]))
+('pwm_original', rightInput: [[ 40.92320873]]
+leftInput: [[ 76.17926258]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 3.01358108 -1.63079187 -2.00601233  1.34441905]
+ [-0.15376951  0.25884407 -2.05620096 -2.8146784 ]]
+(0.058017675089084723, array([-0.06404866, -0.09713902]))
+('vel', array([[ -9.79056463e-04],
+       [  7.75223765e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00053679],
+        [ 0.00125551]]))
+('pwm_original', rightInput: [[-9.66225916]]
+leftInput: [[ 22.59920671]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 3.01356545 -1.63077957 -2.00597495  1.48464254]
+ [-0.15288878  0.25886638 -2.05613747 -2.90549836]]
+(0.06416072309269831, array([-0.06473088, -0.10744165]))
+('vel', array([[ -9.13330416e-04],
+       [  7.43661266e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00059593],
+        [ 0.00139165]]))
+('pwm_original', rightInput: [[-10.72678163]]
+leftInput: [[ 25.04970605]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 3.00811881 -1.63077286 -2.00602484  1.62573219]
+ [-0.12821012  0.25883773 -2.05617525 -2.91296582]]
+(0.069070438453505592, array([-0.06492628, -0.11583742]))
+('vel', array([[-2.19218308],
+       [ 0.01276598]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00188812],
+        [ 0.00441277]]))
+('pwm_original', rightInput: [[ 33.98618585]]
+leftInput: [[ 79.42978277]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.91600028 -1.63076718 -2.00597257  1.77953527]
+ [ 0.18511622  0.25892439 -2.05611432 -2.87948673]]
+(0.07384774530628449, array([-0.06485858, -0.12418222]))
+('vel', array([[ -1.40336447e+00],
+       [ -5.44510122e-04]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00078769],
+        [ 0.00315398]]))
+('pwm_original', rightInput: [[ 14.17846238]]
+leftInput: [[ 56.77171402]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.91336468 -1.63080404 -2.00606334  2.18024772]
+ [ 0.19240286  0.25886515 -2.05618924  0.78954701]]
+(0.18703719795705714, array([-0.00629236, -0.33824372]))
+('vel', array([[-0.34737264],
+       [ 0.00060462]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00136421],
+        [ 0.00425296]]))
+('pwm_original', rightInput: [[-24.55571985]]
+leftInput: [[ 76.55332125]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 2.91145366 -1.63078653 -2.00606899  2.03626133]
+ [ 0.19797415  0.25882502 -2.05621084  0.73620536]]
+(0.17853103269136866, array([-0.01198171, -0.32504612]))
+('vel', array([[-2.56411535],
+       [ 0.00352773]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00144003],
+        [ 0.0069214 ]]))
+('pwm_original', rightInput: [[ 25.92052235]]
+leftInput: [[ 124.58519901]])
+('pwm', rightInput: 90
+leftInput: [[ 124.58519901]])
+[[ 2.90694195 -1.63079031 -2.00598467  1.91162128]
+ [ 0.2112203   0.2588544  -2.05614713 -3.0806992 ]]
+(0.085582335997078013, array([-0.06339778, -0.1438388 ]))
+('vel', array([[-2.50093162],
+       [ 0.00766141]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00193448],
+        [ 0.00490771]]))
+('pwm_original', rightInput: [[ 34.82070255]]
+leftInput: [[ 88.33878707]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.90627022 -1.63079382 -2.00594831  1.89548964]
+ [ 0.21338014  0.25885788 -2.05608236 -3.23758226]]
+(0.090866024007672491, array([-0.06221119, -0.15247058]))
+('vel', array([[-2.22669099],
+       [ 0.00718051]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00154703],
+        [ 0.00466556]]))
+('pwm_original', rightInput: [[ 27.84646837]]
+leftInput: [[ 83.98009917]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.04694138 -1.63078921 -2.00608807  1.81175912]
+ [ 0.76961043  0.25881441 -2.05621456 -3.18038538]]
+(0.084858312606918562, array([-0.06342627, -0.14224989]))
+('vel', array([[-0.01216058],
+       [-0.00027453]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00099135],
+        [-0.002626  ]]))
+('pwm_original', rightInput: [[-17.84425387]]
+leftInput: [[-47.26797638]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.04689841 -1.63078667 -2.00596708  1.22657395]
+ [ 0.76956513  0.25883882 -2.05614122  0.19947811]]
+(0.090747973883907262, array([-0.05925179, -0.1659309 ]))
+('vel', array([[-0.09942599],
+       [ 0.0004253 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00110137],
+        [-0.00265384]]))
+('pwm_original', rightInput: [[-19.82468504]]
+leftInput: [[-47.76911637]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.04683918 -1.63078498 -2.00601645  1.1670797 ]
+ [ 0.76947295  0.2588364  -2.05618364  0.17292206]]
+(0.086932930886645721, array([-0.06011295, -0.15892991]))
+('vel', array([[ -1.22102751e-04],
+       [  5.68464969e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00115095],
+        [-0.00270216]]))
+('pwm_original', rightInput: [[-20.71710872]]
+leftInput: [[-48.63888726]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.0445125  -1.63079759 -2.00598296  1.23385423]
+ [ 0.76581382  0.25885287 -2.05611605  0.01164413]]
+(0.079252313172119435, array([-0.06207348, -0.14387219]))
+('vel', array([[-1.29381064],
+       [-0.00274364]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0006454],
+        [-0.0009535]]))
+('pwm_original', rightInput: [[ 11.61713192]]
+leftInput: [[-17.16307841]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 2.02988391 -1.6308178  -2.00606483  1.02646941]
+ [ 0.73654625  0.25885679 -2.05618646  0.03274201]]
+(0.074250566321415523, array([-0.06224176, -0.13523572]))
+('vel', array([[-2.29989367],
+       [-0.00402464]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00187875],
+        [ 0.00047321]]))
+('pwm_original', rightInput: [[ 33.81746476]]
+leftInput: [[ 8.51780792]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.02840518 -1.63079551 -2.00601533  1.80262211]
+ [ 0.73406775  0.25887026 -2.05615543 -3.25612243]]
+(0.087512061631519131, array([-0.06286898, -0.14655674]))
+('vel', array([[-2.16461998],
+       [-0.00521628]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[  1.56670650e-03],
+        [  3.44571995e-05]]))
+('pwm_original', rightInput: [[ 28.20071702]]
+leftInput: [[ 0.62022959]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 2.0279244  -1.6307846  -2.00602569  1.00109977]
+ [ 0.73322878  0.25884801 -2.05613238 -0.03693914]]
+(0.069971220327710706, array([-0.06264612, -0.12711915]))
+('vel', array([[ -1.06975288e-03],
+       [ -4.77308671e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00098195],
+        [-0.00224241]]))
+('pwm_original', rightInput: [[-17.67509163]]
+leftInput: [[-40.36335646]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.02220635 -1.63079735 -2.00603767  1.10177866]
+ [ 0.03100961  0.2588229  -2.05615048 -0.1556609 ]]
+(0.067234879641952086, array([-0.06315277, -0.12135462]))
+('vel', array([[-0.36617635],
+       [-0.00893545]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00176165],
+        [-0.000816  ]]))
+('pwm_original', rightInput: [[ 31.70976329]]
+leftInput: [[-14.68805627]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.02348728 -1.63080509 -2.00604002  1.04192339]
+ [ 0.03053042  0.25882578 -2.05619561 -0.16009527]]
+(0.065480726827506358, array([-0.06306333, -0.11822962]))
+('vel', array([[-0.31914839],
+       [-0.01187171]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00171986],
+        [-0.00091047]]))
+('pwm_original', rightInput: [[ 30.95753745]]
+leftInput: [[-16.38850442]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 0.94456503 -1.63078118 -2.00600994  0.95031607]
+ [-0.10252797  0.25881521 -2.05617438 -0.06550052]]
+(0.065523605537287019, array([-0.06276513, -0.11877341]))
+('vel', array([[-0.11023489],
+       [-0.00376729]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00062553],
+        [ 0.00111098]]))
+('pwm_original', rightInput: [[ 11.25946402]]
+leftInput: [[ 19.997646]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 0.92992957 -1.63079846 -2.00604976  1.96369622]
+ [ 0.0175969   0.25880841 -2.05621198 -3.22419739]]
+(0.064743155551756734, array([-0.0638226 , -0.11490473]))
+('vel', array([[-0.03502705],
+       [ 0.00165789]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00096784],
+        [ 0.00110169]]))
+('pwm_original', rightInput: [[ 17.42106787]]
+leftInput: [[ 19.83033598]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 0.92516966 -1.6307913  -2.00597619  0.93012245]
+ [-0.04002317  0.25886133 -2.05614435 -0.04680131]]
+(0.067702247973601401, array([-0.06263412, -0.12301586]))
+('vel', array([[ 0.10145781],
+       [ 0.00151397]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00044518],
+        [ 0.00099021]]))
+('pwm_original', rightInput: [[ 8.01319048]]
+leftInput: [[ 17.82382857]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.00050903 -1.63078518 -2.00600059  1.02705858]
+ [-0.0979401   0.25886009 -2.05616836 -0.06324664]]
+(0.067090503169455293, array([-0.06287368, -0.12152989]))
+('vel', array([[ 0.09652157],
+       [ 0.00303619]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ -1.02371960e-03],
+        [  1.33666694e-05]]))
+('pwm_original', rightInput: [[-18.42695288]]
+leftInput: [[ 0.24060005]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 1.15202413 -1.63077837 -2.00601594  1.88748504]
+ [-0.12250157  0.25889397 -2.05614577 -3.01241002]]
+(0.063320105410416549, array([-0.06423472, -0.11111611]))
+('vel', array([[ 0.07484422],
+       [-0.00142711]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00102346],
+        [-0.0002706 ]]))
+('pwm_original', rightInput: [[-18.42222799]]
+leftInput: [[-4.87078539]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.15234591 -1.63075621 -2.00597734  1.16911674]
+ [-0.12274621  0.25885393 -2.0561863  -0.16535996]]
+(0.068740986723422604, array([-0.06324713, -0.12395375]))
+('vel', array([[  4.65061392e-04],
+       [ -9.11556322e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ -1.01734736e-03],
+        [ -9.35128651e-05]]))
+('pwm_original', rightInput: [[-18.3122525]]
+leftInput: [[-1.68323157]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.19373195 -1.6308063  -2.00603096  1.11992099]
+ [-0.53360282  0.2588156  -2.05616322 -0.48958851]]
+(0.056548132246347159, array([-0.06291507, -0.10062143]))
+('vel', array([[ 0.27516258],
+       [-0.00088572]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00015277],
+        [ 0.00045424]]))
+('pwm_original', rightInput: [[-2.74989179]]
+leftInput: [[ 8.17630133]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 1.19175096 -1.63080147 -2.0059731   1.15698273]
+ [-0.54965311  0.25881766 -2.05615055 -0.60654284]]
+(0.054735087050139103, array([-0.06275541, -0.09695308]))
+('vel', array([[ 2.40655779],
+       [-0.01512399]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00260025],
+        [-0.00244587]]))
+('pwm_original', rightInput: [[-46.80452412]]
+leftInput: [[-44.02574551]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.19020692 -1.63080264 -2.00599436  1.07702282]
+ [-0.55901573  0.2588045  -2.05615611 -0.68649005]]
+(0.051277934272384099, array([-0.06198945, -0.09058032]))
+('vel', array([[ 2.17058262],
+       [-0.0138727 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00231818],
+        [-0.0021815 ]]))
+('pwm_original', rightInput: [[-41.7272581]]
+leftInput: [[-39.26695958]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.18983153 -1.63078403 -2.00597211  1.07837514]
+ [-0.56071532  0.25884324 -2.05614665 -0.84463754]]
+(0.04864206149231369, array([-0.06137175, -0.08542598]))
+('vel', array([[ 1.82026558],
+       [-0.0171827 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00183648],
+        [-0.00183279]]))
+('pwm_original', rightInput: [[-33.05658896]]
+leftInput: [[-32.99015956]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.18242813 -1.63080802 -2.00601571  1.20550998]
+ [-0.946487    0.25883073 -2.05615861 -0.94141999]]
+(0.049546475977743497, array([-0.06177763, -0.08673199]))
+('vel', array([[ 0.13739802],
+       [-0.00165883]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0006439 ],
+        [-0.00123317]]))
+('pwm_original', rightInput: [[-11.59017034]]
+leftInput: [[-22.19697655]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.340453   -1.63080068 -2.00598671  1.35021673]
+ [-0.90202986  0.25883327 -2.0561294  -0.91124798]]
+(0.053994915093563918, array([-0.0629678 , -0.09469422]))
+('vel', array([[-0.08647276],
+       [ 0.0033747 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00069605],
+        [-0.00106893]]))
+('pwm_original', rightInput: [[ 12.52898475]]
+leftInput: [[-19.24081712]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.34019681 -1.63080528 -2.00599952  1.24457155]
+ [-0.90270202  0.25885626 -2.05612943 -3.10085247]]
+(0.050812808599444904, array([-0.06244917, -0.08740465]))
+('vel', array([[ -8.32166389e-04],
+       [  1.82061246e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00065275],
+        [-0.00116999]]))
+('pwm_original', rightInput: [[ 11.74948139]]
+leftInput: [[-21.05981031]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.3373482  -1.63080519 -2.00594001  1.1325571 ]
+ [-0.90816526  0.25878664 -2.056119   -2.94229593]]
+(0.04896332273344111, array([-0.06192381, -0.08353487]))
+('vel', array([[-0.80645097],
+       [ 0.02891848]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00129968],
+        [ 0.00033222]]))
+('pwm_original', rightInput: [[ 23.39423249]]
+leftInput: [[ 5.979927]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.32252101 -1.63079728 -2.00599928  1.03892409]
+ [-0.89292738  0.25882991 -2.05615113 -2.80352968]]
+(0.047007677401779024, array([-0.06125263, -0.07967755]))
+('vel', array([[-1.44558835],
+       [ 0.05385577]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00179013],
+        [ 0.00157383]]))
+('pwm_original', rightInput: [[ 32.22233884]]
+leftInput: [[ 28.32889265]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.32121578 -1.6308088  -2.00600777  1.08591947]
+ [-0.89637971  0.25885158 -2.05614778 -2.86631402]]
+(0.047915871354959658, array([-0.06157513, -0.08148637]))
+('vel', array([[-0.79736558],
+       [ 0.02951963]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00137481],
+        [ 0.00042007]]))
+('pwm_original', rightInput: [[ 24.74655883]]
+leftInput: [[ 7.56127476]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.31808727 -1.63080869 -2.0059832   1.15230317]
+ [-0.90789744  0.25881646 -2.05614973 -2.96385444]]
+(0.048986007202106982, array([-0.06192281, -0.08375166]))
+('vel', array([[-1.41976163],
+       [ 0.04069938]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00210244],
+        [ 0.0014458 ]]))
+('pwm_original', rightInput: [[ 37.84392249]]
+leftInput: [[ 26.02437401]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.31636512 -1.6308036  -2.00598058  1.07149133]
+ [-0.91949727  0.25882871 -2.05615152 -2.95253786]]
+(0.04810228405300631, array([-0.06163101, -0.08194436]))
+('vel', array([[-1.63433062],
+       [ 0.0593825 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00218812],
+        [ 0.0021046 ]]))
+('pwm_original', rightInput: [[ 39.38610763]]
+leftInput: [[ 37.88282042]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.31623961 -1.63081312 -2.00600179  0.93449739]
+ [-0.92024766  0.25882219 -2.05615168 -2.91757749]]
+(0.046477278655600446, array([-0.06103461, -0.07864815]))
+('vel', array([[ -7.23573575e-04],
+       [  2.90486177e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00101238],
+        [-0.00078507]]))
+('pwm_original', rightInput: [[ 18.22280135]]
+leftInput: [[-14.13117557]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.31601106 -1.63076064 -2.00596226  0.8141593 ]
+ [-0.92178128  0.25893658 -2.05609197 -2.98303143]]
+(0.04578720872820178, array([-0.06073842, -0.07722212]))
+('vel', array([[-1.33645285],
+       [ 0.05335381]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00190221],
+        [ 0.00168893]]))
+('pwm_original', rightInput: [[ 34.23984188]]
+leftInput: [[ 30.40080327]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.31612499 -1.63079992 -2.00606738  0.76674756]
+ [-0.92912635  0.25887536 -2.05617399 -3.06291766]]
+(0.04594673093118725, array([-0.06079098, -0.07749907]))
+('vel', array([[-1.48442816],
+       [ 0.03911347]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00234897],
+        [ 0.00172993]]))
+('pwm_original', rightInput: [[ 42.28138173]]
+leftInput: [[ 31.13881119]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.31276536 -1.63080669 -2.00600105  1.41609384]
+ [-0.94528765  0.2588613  -2.05613658 -1.03943757]]
+(0.052702058652495221, array([-0.06267652, -0.09233428]))
+('vel', array([[-1.83325061],
+       [ 0.09769723]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00222517],
+        [ 0.00345616]]))
+('pwm_original', rightInput: [[ 40.0529801]]
+leftInput: [[ 62.21084337]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.32058633 -1.63079097 -2.00595876  1.54770224]
+ [-0.94293352  0.25887413 -2.0560806  -0.92697001]]
+(0.052842925099838678, array([-0.06273096, -0.09252875]))
+('vel', array([[-1.04872367],
+       [ 0.02367019]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00221338],
+        [ 0.00107757]]))
+('pwm_original', rightInput: [[ 39.84086348]]
+leftInput: [[ 19.39631663]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.32164562 -1.63079506 -2.00596302  1.47197568]
+ [-0.94675313  0.25885826 -2.05610845 -0.85574219]]
+(0.052842925099838678, array([-0.06273096, -0.09252875]))
+('vel', array([[-0.80261612],
+       [ 0.02518617]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00191495],
+        [ 0.00085302]]))
+('pwm_original', rightInput: [[ 34.46904154]]
+leftInput: [[ 15.35444719]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44627988 -1.6308001  -2.00602338  1.42503288]
+ [-1.00970441  0.25884492 -2.05619634 -0.76927925]]
+(0.055363974218224032, array([-0.06337408, -0.09679315]))
+('vel', array([[ 1.96321201],
+       [-0.0033831 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00297415],
+        [-0.0037452 ]]))
+('pwm_original', rightInput: [[-53.53468635]]
+leftInput: [[-67.41363071]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.44670857 -1.63079823 -2.00594927  1.46793457]
+ [-1.01029294  0.25886174 -2.05609167 -0.75678112]]
+(0.055363974218224032, array([-0.06337408, -0.09679315]))
+('vel', array([[  2.62653261e-04],
+       [ -5.62760582e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00057432],
+        [-0.00123848]]))
+('pwm_original', rightInput: [[-10.33778554]]
+leftInput: [[-22.29272097]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[-1.60479634 -1.63080494 -2.00597285  1.44004741]
+ [ 0.24666237  0.25882136 -2.05614017 -1.06491838]]
+(0.054121395239632997, array([-0.06292402, -0.0946971 ]))
+('vel', array([[ 0.00477619],
+       [-0.00053868]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00118157],
+        [-0.00018585]]))
+('pwm_original', rightInput: [[ 21.26829719]]
+leftInput: [[-3.34525104]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.43966035 -1.63082025 -2.00598043  1.41465938]
+ [-0.86835106  0.25885939 -2.05612323 -0.88149173]]
+(0.05632602015917372, array([-0.06344571, -0.09886884]))
+('vel', array([[-0.01244964],
+       [ 0.00086472]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00066692],
+        [ 0.00096199]]))
+('pwm_original', rightInput: [[ 12.00462875]]
+leftInput: [[ 17.31577921]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44847695 -1.63085181 -2.00607803  0.76519516]
+ [-0.89359106  0.2587955  -2.05619088 -3.08780724]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ 0.05810633],
+       [ 0.00400882]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00042349],
+        [ 0.00078447]]))
+('pwm_original', rightInput: [[ 7.62285674]]
+leftInput: [[ 14.12042087]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44845671 -1.63081848 -2.00599527  0.76519393]
+ [-0.8935439   0.25884144 -2.05609544 -3.08787814]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[  6.84183208e-04],
+       [ -4.64656595e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055434],
+        [ 0.00079722]]))
+('pwm_original', rightInput: [[ 9.97820764]]
+leftInput: [[ 14.3500289]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44846962 -1.63082008 -2.00603033  0.76510367]
+ [-0.8935701   0.25885204 -2.0561362  -3.08729865]]
+(0.047682021144173928, array([-0.06140113, -0.08000143]))
+('vel', array([[  2.84189092e-04],
+       [  3.10660287e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055475],
+        [ 0.00079747]]))
+('pwm_original', rightInput: [[ 9.98553708]]
+leftInput: [[ 14.3544008]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841517 -1.63082216 -2.00603537 -1.63912909]
+ [-0.89358105  0.25877855 -2.05612365  0.23053772]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[ -2.72164113e-03],
+       [ -6.33595623e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00064459],
+        [ 0.00093746]]))
+('pwm_original', rightInput: [[ 11.60257557]]
+leftInput: [[ 16.87435771]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841816 -1.63082055 -2.00599212  0.76511748]
+ [-0.89357603  0.25880379 -2.05608745 -3.08774463]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ -5.46249386e-06],
+       [ -2.08619344e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055527],
+        [ 0.00079814]]))
+('pwm_original', rightInput: [[ 9.9948248]]
+leftInput: [[ 14.36656413]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44843111 -1.63082481 -2.00599277  0.76515955]
+ [-0.89353393  0.25880098 -2.05613321 -3.08791635]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[-0.00952112],
+       [-0.00037628]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00057274],
+        [ 0.00080451]]))
+('pwm_original', rightInput: [[ 10.30930241]]
+leftInput: [[ 14.481263]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841037 -1.63082549 -2.00604679  0.76512586]
+ [-0.89360778  0.25879714 -2.05614682 -3.0877199 ]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ 0.01878333],
+       [ 0.00037444]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00052632],
+        [ 0.00078016]]))
+('pwm_original', rightInput: [[ 9.47382956]]
+leftInput: [[ 14.04286862]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44842461 -1.63085162 -2.0060073   0.76512576]
+ [-0.89360292  0.25875158 -2.05610103 -3.08800301]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[-0.02603454],
+       [-0.00064688]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00059735],
+        [ 0.00082117]]))
+('pwm_original', rightInput: [[ 10.75222277]]
+leftInput: [[ 14.7810039]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841442 -1.63081706 -2.00601662  0.76521671]
+ [-0.89356299  0.2588085  -2.05610368 -3.08778712]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[-0.05101833],
+       [ 0.0006445 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00060968],
+        [ 0.00087139]]))
+('pwm_original', rightInput: [[ 10.97417199]]
+leftInput: [[ 15.68505434]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44843998 -1.63083876 -2.00607913  0.76503115]
+ [-0.8935906   0.25885594 -2.05616147 -3.08748482]]
+(0.047682021144173928, array([-0.06140113, -0.08000143]))
+('vel', array([[ 0.01903079],
+       [-0.00165588]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055553],
+        [ 0.00074962]]))
+('pwm_original', rightInput: [[ 9.99947186]]
+leftInput: [[ 13.49308131]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.4484321  -1.63086831 -2.00597509  0.76515792]
+ [-0.89358558  0.25886306 -2.05609004 -3.08792125]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[  3.41552568e-07],
+       [ -7.68104681e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055512],
+        [ 0.00079812]]))
+('pwm_original', rightInput: [[ 9.99214699]]
+leftInput: [[ 14.36618877]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44839964 -1.63080417 -2.00599492  0.76518584]
+ [-0.89360118  0.258861   -2.05605958 -3.08773049]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[  3.47585172e-02],
+       [ -8.58387293e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00051307],
+        [ 0.00075342]]))
+('pwm_original', rightInput: [[ 9.23533493]]
+leftInput: [[ 13.56149199]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841388 -1.6308287  -2.00601854  0.76492436]
+ [-0.8935252   0.25881091 -2.05614908 -3.08648685]]
+(0.047667199448367642, array([-0.06139623, -0.0799749 ]))
+('vel', array([[-0.06018742],
+       [-0.00122744]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0006483 ],
+        [ 0.00085471]]))
+('pwm_original', rightInput: [[ 11.66945532]]
+leftInput: [[ 15.38483563]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44838991 -1.63083642 -2.00603705  0.76531318]
+ [-0.8936193   0.25879644 -2.05618779 -3.08811631]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[-0.01009938],
+       [-0.00053003]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00057567],
+        [ 0.00080295]]))
+('pwm_original', rightInput: [[ 10.3621368]]
+leftInput: [[ 14.45311559]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44839408 -1.63083607 -2.00601102  0.76526969]
+ [-0.89359978  0.25878482 -2.05611261 -3.08807475]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ 0.01073325],
+       [-0.00046662]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00054867],
+        [ 0.00077784]]))
+('pwm_original', rightInput: [[ 9.87608024]]
+leftInput: [[ 14.00120481]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841096 -1.63083354 -2.00599844  0.76525474]
+ [-0.89355982  0.25882528 -2.05611939 -3.08816691]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[-0.02759637],
+       [ 0.00123516]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00057158],
+        [ 0.00085079]]))
+('pwm_original', rightInput: [[ 10.28846984]]
+leftInput: [[ 15.31429431]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841229 -1.6308302  -2.00608616  0.76526958]
+ [-0.89356434  0.25879214 -2.05617836 -3.08786854]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[  3.82184591e-06],
+       [  3.00796981e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055526],
+        [ 0.00079814]]))
+('pwm_original', rightInput: [[ 9.99471437]]
+leftInput: [[ 14.36643214]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841197 -1.63081368 -2.00598813  0.76525635]
+ [-0.89354916  0.25879187 -2.05607976 -3.08797396]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ 0.00415871],
+       [ 0.00034341]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00054511],
+        [ 0.00079799]]))
+('pwm_original', rightInput: [[ 9.81191104]]
+leftInput: [[ 14.36386035]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44841038 -1.63084386 -2.00599208  0.76520889]
+ [-0.8935472   0.25882927 -2.05607563 -3.08791741]]
+(0.047706167748613144, array([-0.06140955, -0.08004591]))
+('vel', array([[ -6.11880588e-07],
+       [ -1.31340628e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00055527],
+        [ 0.00079814]]))
+('pwm_original', rightInput: [[ 9.99490422]]
+leftInput: [[ 14.36643576]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44840113 -1.63081405 -2.00601859 -1.63913589]
+ [-0.89359066  0.2588685  -2.0561298   0.2305718 ]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[-0.00383624],
+       [-0.00013954]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00064724],
+        [ 0.00093773]]))
+('pwm_original', rightInput: [[ 11.65039878]]
+leftInput: [[ 16.87912733]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44837    -1.63082196 -2.00600367 -1.63915786]
+ [-0.89359951  0.25887192 -2.05608677  0.23060209]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[ -9.17202954e-04],
+       [  8.88330174e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00064033],
+        [ 0.00093742]]))
+('pwm_original', rightInput: [[ 11.5258634]]
+leftInput: [[ 16.87363181]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44837556 -1.6308193  -2.00598862 -1.63916488]
+ [-0.89360348  0.25886805 -2.05608091  0.23058611]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[  1.57805448e-03],
+       [ -6.10866700e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00063842],
+        [ 0.00093291]]))
+('pwm_original', rightInput: [[ 11.49152953]]
+leftInput: [[ 16.79240612]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44837254 -1.63080948 -2.00598857 -1.63909857]
+ [-0.89359372  0.25886483 -2.05611293  0.23053582]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[  1.11018336e-03],
+       [ -1.46201857e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00063913],
+        [ 0.00093337]]))
+('pwm_original', rightInput: [[ 11.50433826]]
+leftInput: [[ 16.80068215]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44839641 -1.63084481 -2.00601989 -1.63916885]
+ [-0.89362033  0.2588354  -2.05611326  0.23056126]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[  6.93240989e-04],
+       [ -3.40205016e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00063989],
+        [ 0.00093361]]))
+('pwm_original', rightInput: [[ 11.51809241]]
+leftInput: [[ 16.80504486]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44836221 -1.6308277  -2.00600772 -1.63915147]
+ [-0.89362797  0.25883208 -2.05609878  0.2305821 ]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[  5.32391021e-05],
+       [ -2.96429352e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00064039],
+        [ 0.00093485]]))
+('pwm_original', rightInput: [[ 11.52709905]]
+leftInput: [[ 16.82737158]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.44837775 -1.63083833 -2.00599752 -1.6391656 ]
+ [-0.89353952  0.25883445 -2.05614766  0.23061152]]
+(0.056585942043173423, array([-0.0630077 , -0.09961473]))
+('vel', array([[ -1.06339078e-03],
+       [ -4.19819293e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00064206],
+        [ 0.0009357 ]]))
+('pwm_original', rightInput: [[ 11.55716578]]
+leftInput: [[ 16.84254043]])
+('pwm', rightInput: 90
+leftInput: 90)
+^[[1;2A^[[1;2A^[[1;2A^CTra

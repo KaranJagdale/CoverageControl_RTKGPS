@@ -1,0 +1,90 @@
+('wRcallback', 0.0)
+[ERROR] [1575395110.127474]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('wRcallback', 0.0)
+[ERROR] [1575395110.160755]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('wRcallback', 0.0)
+[ERROR] [1575395110.219054]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('wRcallback', 0.0)
+[ERROR] [1575395110.251319]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('wRcallback', 0.0)
+[ERROR] [1575395110.299803]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('wRcallback', 0.0)
+[ERROR] [1575395110.318448]: bad callback: <function callback at 0x7f8ed90ab0c8>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot0.py", line 240, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+('pwm_original', rightInput: [[ 168.80007609]]
+leftInput: [[ 598.36484612]])
+('pwm', rightInput: [[ 168.80007609]]
+leftInput: 255)
+('pwm_original', rightInput: [[ 489.11538063]]
+leftInput: [[ 278.82253231]])
+('pwm', rightInput: 255
+leftInput: 255)
+('pwm_original', rightInput: [[-41990.98196736]]
+leftInput: [[ 42657.02493211]])
+('pwm', rightInput: -255
+leftInput: 255)
+('pwm_original', rightInput: [[ 353.58864593]]
+leftInput: [[ 428.54918999]])
+('pwm', rightInput: 255
+leftInput: 255)
+('pwm_original', rightInput: [[ 477.82940516]]
+leftInput: [[ 299.76086303]])
+('pwm', rightInput: 255
+leftInput: 255)
+('pwm_original', rightInput: [[ 64.32772822]]
+leftInput: [[ 714.35083251]])
+('pwm', rightInput: 90
+leftInput: 255)
+('pwm_original', rightInput: [[ 501.71242809]]
+leftInput: [[ 257.14107151]])
+('pwm', rightInput: 255
+leftInput: 255)
+('pwm_original', rightInput: [[ 5.31198051]]
+leftInput: [[-4.50211376]])
+('pwm', rightInput: 90
+leftInput: -90)
+('pwm_original', rightInput: [[ 6.31666824]]
+leftInput: [[-5.49215967]])
+('pwm', rightInput: 90
+

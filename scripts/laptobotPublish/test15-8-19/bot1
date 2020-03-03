@@ -1,0 +1,2313 @@
+(2.296497749094184, array([ 2.09225073,  3.06556372]))
+('vel', array([[-0.92596519],
+       [ 0.02515713]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01927321],
+        [ 0.0580157 ]]))
+('pwm_original', rightInput: [[-346.91774814]]
+leftInput: [[ 1044.2826889]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.56775377 -1.6837871  -1.77558332  0.64575831]
+ [-2.38502897  0.31062899 -1.7855208  -2.35215177]]
+[ERROR] [1565868780.022044]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.055505]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.102590]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.133972]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.182008]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.214608]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.262518]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.296395]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.341901]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.376145]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.422713]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.454805]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.501876]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.533299]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.584947]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.614316]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.661902]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.693310]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.741736]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.773986]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.821930]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.853290]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.901318]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.933971]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868780.982692]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.013719]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.061267]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.097447]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.142105]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.174412]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+(2.2725505854568477, array([ 2.04733469,  3.04060373]))
+('vel', array([[-0.02482584],
+       [-0.00128118]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01965527],
+        [ 0.05603343]]))
+('pwm_original', rightInput: [[-353.79479614]]
+leftInput: [[ 1008.60181441]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.56780004 -1.74993668 -1.76200858 -1.77708208]
+ [-2.38484464  0.31000922  0.30123766 -1.81272653]]
+[ERROR] [1565868781.221307]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.252620]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.301702]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.333601]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.381272]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.415539]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.462052]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.494220]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.542789]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.573208]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.620922]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.656584]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.704283]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.734383]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.785301]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.828498]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.861617]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.893283]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.942561]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868781.991767]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.019822]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.054524]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.100486]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.148769]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.181604]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.227376]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.261271]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.307958]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.347773]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+(2.2382200369751453, array([ 2.06355016,  3.0350101 ]))
+('vel', array([[  1.34551784e-02],
+       [  5.22629919e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01991436],
+        [ 0.05522509]]))
+('pwm_original', rightInput: [[-358.45856005]]
+leftInput: [[ 994.0516073]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.56812641 -1.67809756 -1.79870892 -1.77693766]
+ [-2.38430302  0.32618018 -1.84539999 -1.81264793]]
+[ERROR] [1565868782.387417]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.420178]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.472322]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.505008]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.557355]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.581432]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.628555]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.659806]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.707915]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.739980]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.786723]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.820506]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.876921]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.899873]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.946637]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868782.981780]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+[ERROR] [1565868783.029314]: bad callback: <function callback at 0x7f540c073b90>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "bot1.py", line 238, in callback
+    row=[logTime,data.interval,data.encoderR,data.encoderL,wR,wL,wdotR,wdotL,wddotR,wddotL,pwmInput.rightInput,pwmInput.leftInput]
+NameError: global name 'pwmInput' is not defined
+
+(2.3370639262746837, array([ 2.1552152 ,  3.09602926]))
+('vel', array([[ 0.04146609],
+       [-0.00857439]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0203668 ],
+        [ 0.05712378]]))
+('pwm_original', rightInput: [[-366.60243975]]
+leftInput: [[ 1028.22810156]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.56815331 -1.65360682 -1.66348974 -1.78110612]
+ [-2.38429746  0.26970286  0.26278299 -1.82975488]]
+(2.3385723682263797, array([ 2.21871924,  3.10575799]))
+('vel', array([[-0.08534131],
+       [-0.00989486]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.02070112],
+        [ 0.05712438]]))
+('pwm_original', rightInput: [[-372.62018533]]
+leftInput: [[ 1028.23889262]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[-1.64023382 -1.63090852 -1.82511849  0.64433101]
+ [ 0.24363709  0.25890172 -1.86659357 -2.3509759 ]]
+(2.2954971660437526, array([ 2.1585719 ,  3.08344708]))
+('vel', array([[  1.67435077e-03],
+       [  6.81174918e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04014592],
+        [-0.04029496]]))
+('pwm_original', rightInput: [[-722.62651577]]
+leftInput: [[-725.30935994]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-1.6402502  -1.63088412 -1.8095411   0.64458289]
+ [ 0.24362198  0.25889137 -1.87139293 -2.35517451]]
+(2.3001104850211411, array([ 2.16554146,  3.08668854]))
+('vel', array([[  1.91254404e-05],
+       [  4.50623559e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04021193],
+        [-0.04040333]]))
+('pwm_original', rightInput: [[-723.81473782]]
+leftInput: [[-727.25995821]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-1.64024419 -1.63089663  0.63577876 -1.78915822]
+ [ 0.24361955  0.25889887 -2.35494053 -1.85160057]]
+(2.3022312897239403, array([ 2.16975598,  3.08904115]))
+('vel', array([[-0.00010001],
+       [ 0.00040019]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04026922],
+        [-0.04044304]]))
+('pwm_original', rightInput: [[-724.84599672]]
+leftInput: [[-727.97467071]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-1.81407801 -1.63088742 -1.82087095  0.61534343]
+ [-1.95290995  0.25887062 -1.96184125 -2.38971345]]
+(2.3759288147938489, array([ 2.19382196,  3.10784494]))
+('vel', array([[ 0.02681206],
+       [-0.00043766]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00066992],
+        [-0.07701995]]))
+('pwm_original', rightInput: [[ 12.05861594]]
+leftInput: [[-1386.35918794]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[-1.8140587  -1.63088256 -1.75898637  0.61527657]
+ [-1.95341715  0.25885879 -2.14759417 -2.38984444]]
+(2.3761499200052056, array([ 2.19408942,  3.10794555]))
+('vel', array([[  3.58594943e-04],
+       [ -4.37468254e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00098442],
+        [-0.07691643]]))
+('pwm_original', rightInput: [[ 17.7195484]]
+leftInput: [[-1384.49582612]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[-1.81396778 -1.6309029  -1.75980867  0.6239504 ]
+ [-1.95399898  0.25885171 -2.14720911 -2.33031137]]
+(2.3108984875775627, array([ 2.09235135,  3.06070021]))
+('vel', array([[  4.41600603e-04],
+       [ -2.09111852e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00072732],
+        [-0.07490296]]))
+('pwm_original', rightInput: [[ 13.09171537]]
+leftInput: [[-1348.25322678]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[ 0.75775006 -1.63088423 -1.75930383  0.75777383]
+ [-2.32305519  0.25881937 -2.14743048 -2.3253872 ]]
+(2.2693320580491609, array([ 2.00632399,  3.01143805]))
+('vel', array([[-0.05589139],
+       [-0.0013242 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05872548],
+        [ 0.01081728]]))
+('pwm_original', rightInput: [[-1057.05856736]]
+leftInput: [[ 194.71103591]])
+('pwm', rightInput: -255
+leftInput: [[ 194.71103591]])
+[[ 0.74980667 -1.63086123 -1.75926138  0.7456566 ]
+ [-2.28681044  0.25884935 -2.14759136 -2.2190558 ]]
+(2.1504023385578601, array([ 1.82565887,  2.91157638]))
+('vel', array([[-1.32419841],
+       [-0.01768836]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0340919 ],
+        [-0.05642959]]))
+('pwm_original', rightInput: [[-613.6541717]]
+leftInput: [[-1015.73264948]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-1.60508735 -1.63087374 -1.75926717  0.69363378]
+ [ 0.24673374  0.25883973 -2.14762369 -2.21977986]]
+(0.048503579161696418, array([-0.08503476,  0.06123628]))
+('vel', array([[ 40.37408293],
+       [  1.93653342]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.07863139],
+        [-0.02188143]]))
+('pwm_original', rightInput: [[-1415.36508318]]
+leftInput: [[-393.86569205]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 0.70921158 -1.63087888 -1.75933031  0.62319156]
+ [-2.19223163  0.25882929 -2.1476438  -2.24312939]]
+(2.1270193119853844, array([ 1.79461756,  2.89452694]))
+('vel', array([[-4.96312939],
+       [ 4.2193723 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.09487283],
+        [ 0.10075507]]))
+('pwm_original', rightInput: [[-1707.71100447]]
+leftInput: [[ 1813.59122324]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.70888076 -1.63085618 -1.77576555  0.64632657]
+ [-2.19220851  0.2588544  -2.11890763 -2.32239384]]
+(2.126785082464496, array([ 1.79509794,  2.89474779]))
+('vel', array([[  2.97562989e-04],
+       [ -1.96274334e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01505175],
+        [ 0.05117785]]))
+('pwm_original', rightInput: [[-270.93147891]]
+leftInput: [[ 921.20130019]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.70838559 -1.63088983 -1.86287352  0.73477115]
+ [-2.19203961  0.25879383 -1.96734474 -2.31306631]]
+(2.125122281543574, array([ 1.79775932,  2.89624906]))
+('vel', array([[  4.68663467e-04],
+       [  3.07010891e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00361848],
+        [ 0.05597893]]))
+('pwm_original', rightInput: [[-65.132646]]
+leftInput: [[ 1007.62073686]])
+('pwm', rightInput: -90
+leftInput: 255)
+[[ 0.70791701 -1.63087715 -1.86393559  0.72979096]
+ [-2.1918244   0.25880164 -1.96383789 -2.19882666]]
+(2.1247224017855655, array([ 1.79708736,  2.89577342]))
+('vel', array([[  4.57575425e-04],
+       [  5.84217760e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00120276],
+        [ 0.05734817]]))
+('pwm_original', rightInput: [[ 21.64971426]]
+leftInput: [[ 1032.26713733]])
+('pwm', rightInput: 90
+leftInput: 255)
+[[ 0.70750049 -1.63087091 -1.89418834 -1.8940059 ]
+ [-2.19165182  0.25883789 -1.90869211 -1.87790052]]
+(2.1240242709093198, array([ 1.79937315,  2.89718917]))
+('vel', array([[  3.82641431e-04],
+       [  8.03374006e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00322199],
+        [ 0.05781267]]))
+('pwm_original', rightInput: [[ 57.99575295]]
+leftInput: [[ 1040.628145]])
+('pwm', rightInput: 90
+leftInput: 255)
+[[ 0.70696371 -1.63086475 -1.92986674  0.65851812]
+ [-2.19146273  0.25880548 -1.85577199 -2.33535506]]
+(2.1238686603681285, array([ 1.79946246,  2.89713634]))
+('vel', array([[  4.74015975e-04],
+       [  1.30538750e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00403095],
+        [ 0.05797549]]))
+('pwm_original', rightInput: [[ 72.55712524]]
+leftInput: [[ 1043.55874449]])
+('pwm', rightInput: 90
+leftInput: 255)
+[[-1.6424557  -1.63086043 -2.10966325  0.73491278]
+ [ 0.2365115   0.25885027 -1.84290957 -2.31312283]]
+(2.2264176422826947, array([ 2.04831814,  3.02666663]))
+('vel', array([[ 0.07696806],
+       [ 0.00389748]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04658756],
+        [-0.02674094]]))
+('pwm_original', rightInput: [[-838.57606822]]
+leftInput: [[-481.33686548]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-1.64244186 -1.63086438  0.75807708  0.72281767]
+ [ 0.23650413  0.25882708 -2.17414219 -2.24816748]]
+(2.0548808467576891, array([ 1.78202833,  2.87152252]))
+('vel', array([[ -1.26249701e-05],
+       [  5.05733396e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04205348],
+        [-0.02512902]]))
+('pwm_original', rightInput: [[-756.96272347]]
+leftInput: [[-452.32240999]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 0.7173383  -1.63084469 -2.09255776  0.63018112]
+ [-2.33884224  0.25883584 -1.84925914 -2.22685021]]
+(2.1917379773352255, array([ 1.90790989,  2.96282567]))
+('vel', array([[-4928.65543559],
+       [  559.68188467]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ -2.11959269],
+        [ 14.41598094]]))
+('pwm_original', rightInput: [[-38152.66836198]]
+leftInput: [[ 259487.65686086]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.7258888  -1.63084474 -2.20294882  0.59515436]
+ [-2.34702376  0.2588252  -1.84500067 -2.32530209]]
+(2.2981621605784359, array([ 2.06459929,  3.04367707]))
+('vel', array([[-0.00623007],
+       [ 0.00059422]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05188703],
+        [ 0.02576011]]))
+('pwm_original', rightInput: [[-933.96645294]]
+leftInput: [[ 463.68206946]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72381976 -1.63085866 -2.24490577  0.64047687]
+ [-2.34218535  0.25882623 -1.90054736 -2.3578985 ]]
+(2.2991419824323036, array([ 2.05746763,  3.03760665]))
+('vel', array([[ 0.00098142],
+       [-0.00031281]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05051674],
+        [ 0.02753674]]))
+('pwm_original', rightInput: [[-909.30134383]]
+leftInput: [[ 495.6612392]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72423302 -1.63085135  0.67312668  0.69486224]
+ [-2.34196424  0.25881744 -2.35928745 -2.3669772 ]]
+(2.3229869556157854, array([ 2.01408908,  3.00130503]))
+('vel', array([[ -4.16835862e-04],
+       [ -8.87182758e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05069733],
+        [ 0.02748491]]))
+('pwm_original', rightInput: [[-912.55202329]]
+leftInput: [[ 494.72830727]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72463003 -1.63085076 -2.1619949   0.83576414]
+ [-2.34177122  0.25887352 -1.8605645  -2.30057783]]
+(2.2244668687499156, array([ 1.93336429,  2.96806414]))
+('vel', array([[ -3.76988087e-04],
+       [ -6.74516028e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05003193],
+        [ 0.02526853]]))
+('pwm_original', rightInput: [[-900.57477998]]
+leftInput: [[ 454.83360267]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72489031 -1.63085581 -2.15457957 -2.16313834]
+ [-2.34176203  0.25887302 -1.88130414 -1.85981319]]
+(2.297827341855855, array([ 2.05754894,  3.03760692]))
+('vel', array([[ -2.38162429e-04],
+       [  2.65341121e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05270278],
+        [ 0.02426662]]))
+('pwm_original', rightInput: [[-948.64997681]]
+leftInput: [[ 436.79923135]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72535208 -1.63085487 -2.12571101  0.79303271]
+ [-2.341329    0.25888566 -1.98805479 -2.21764724]]
+(2.1369389215646035, array([ 1.79991977,  2.89282501]))
+('vel', array([[ -4.91495402e-04],
+       [ -1.84689328e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04956491],
+        [ 0.02244728]]))
+('pwm_original', rightInput: [[-892.16839422]]
+leftInput: [[ 404.05099931]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72577552 -1.63086606  0.83415146 -2.21719344]
+ [-2.34127939  0.25887615 -2.2030285  -2.00856816]]
+(2.1086092792587343, array([ 1.75015315,  2.86039967]))
+('vel', array([[ -3.93710494e-04],
+       [  3.34350054e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04941843],
+        [ 0.02139878]]))
+('pwm_original', rightInput: [[-889.53171254]]
+leftInput: [[ 385.17797644]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72618257 -1.6308521   0.8341594  -2.22482369]
+ [-2.34108766  0.25886355 -2.20291731 -2.0072801 ]]
+(2.1086584753953352, array([ 1.75010719,  2.86034395]))
+('vel', array([[ -4.02770392e-04],
+       [ -4.64563263e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04988876],
+        [ 0.02063362]]))
+('pwm_original', rightInput: [[-897.99770746]]
+leftInput: [[ 371.40516927]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72880981 -1.63086747 -2.29265926  0.80519962]
+ [-2.34601183  0.25883528 -2.00124986 -2.2308462 ]]
+(2.1519345561746266, array([ 1.81712359,  2.90195457]))
+('vel', array([[-0.00106773],
+       [ 0.00031973]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04884507],
+        [ 0.0242335 ]]))
+('pwm_original', rightInput: [[-879.21122369]]
+leftInput: [[ 436.20293973]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.72931516 -1.63083301  0.8000572   0.79043144]
+ [-2.34568505  0.25881001 -2.16450216 -2.18155255]]
+(2.0906780191779304, array([ 1.65116984,  2.79020673]))
+('vel', array([[ -5.01220578e-04],
+       [ -1.20120909e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04541228],
+        [ 0.02604247]]))
+('pwm_original', rightInput: [[-817.42098553]]
+leftInput: [[ 468.76437754]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.74454736 -1.63086193 -2.32213923  0.57927536]
+ [-2.33737957  0.25882049 -2.30455597 -2.19823397]]
+(2.1804512644646139, array([ 1.87784588,  2.94686355]))
+('vel', array([[-0.3511519 ],
+       [-0.00616271]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05326409],
+        [ 0.0176291 ]]))
+('pwm_original', rightInput: [[-958.75361284]]
+leftInput: [[ 317.32385689]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.74461683 -1.63082409 -2.27365184  3.00386354]
+ [-2.33684941  0.25884848 -2.17764839  0.3479161 ]]
+(0.784965773569404, array([ 0.01575208,  0.8332895 ]))
+('vel', array([[ -1.94063960e-04],
+       [ -2.46871320e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01487671],
+        [ 0.01037328]]))
+('pwm_original', rightInput: [[-267.78083482]]
+leftInput: [[ 186.71905202]])
+('pwm', rightInput: -255
+leftInput: [[ 186.71905202]])
+[[ 0.74517797 -1.63085802 -2.2175569   1.03590085]
+ [-2.33650063  0.25880154 -2.1279771  -1.94487255]]
+(1.7264567424215198, array([ 1.16240439,  2.41527991]))
+('vel', array([[ -5.41932118e-04],
+       [ -7.55365981e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04185165],
+        [ 0.01593129]]))
+('pwm_original', rightInput: [[-753.3297496]]
+leftInput: [[ 286.76323296]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.74795952 -1.63083799 -2.07181791  1.09284328]
+ [-2.33499783  0.25884715 -2.11628599 -1.82883777]]
+(1.5566799241432363, array([ 0.92865127,  2.19872349]))
+('vel', array([[-1.54155534],
+       [-0.01803522]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.03552963],
+        [ 0.01627473]]))
+('pwm_original', rightInput: [[-639.53339294]]
+leftInput: [[ 292.94512431]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.74845584 -1.6308192  -2.03577261  1.01388549]
+ [-2.33470194  0.2588689  -2.15747462 -1.80898546]]
+(1.5338611727794793, array([ 0.90761934,  2.18137856]))
+('vel', array([[ -5.49799292e-04],
+       [ -6.26593448e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.03730675],
+        [ 0.01435324]]))
+('pwm_original', rightInput: [[-671.52146925]]
+leftInput: [[ 258.35832796]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 3.26123232 -1.63082914  1.07471007  1.03444328]
+ [-0.04217583  0.2588441  -1.83469899 -1.87290262]]
+(0.99767017438933014, array([ 0.13568486,  1.14176716]))
+('vel', array([[-0.00237175],
+       [ 0.03329718]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00425003],
+        [ 0.02634359]]))
+('pwm_original', rightInput: [[ 76.50049164]]
+leftInput: [[ 474.18467466]])
+('pwm', rightInput: 90
+leftInput: 255)
+[[ 3.1795662  -1.63085136 -2.04080572  1.01268858]
+ [-0.10480953  0.25885191 -2.3255458  -1.91718451]]
+(0.96500514430124074, array([ 0.16718758,  1.15935383]))
+('vel', array([[ 0.11602678],
+       [ 0.00047171]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01511061],
+        [-0.02336992]]))
+('pwm_original', rightInput: [[-271.9909484]]
+leftInput: [[-420.65857587]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.1796459  -1.63081322  0.97776895  0.97641642]
+ [-0.10488661  0.25885615 -1.92597332 -1.93894268]]
+(0.9882303173143504, array([ 0.12606034,  1.12092724]))
+('vel', array([[  9.11329480e-05],
+       [ -4.17404361e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01588905],
+        [-0.02365486]]))
+('pwm_original', rightInput: [[-286.00293161]]
+leftInput: [[-425.78741369]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17987851 -1.63084321 -2.02264247  0.94001199]
+ [-0.10493514  0.25885719 -2.25120976 -1.92828938]]
+(0.96241830322452027, array([ 0.16906125,  1.16189602]))
+('vel', array([[-0.00099796],
+       [ 0.0005005 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01492565],
+        [-0.0231651 ]]))
+('pwm_original', rightInput: [[-268.66168394]]
+leftInput: [[-416.97183344]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17990264 -1.63083192  0.927161    0.883336  ]
+ [-0.10496846  0.25886618 -1.89730855 -1.86279637]]
+(0.9701887786564275, array([ 0.1211497 ,  1.12256887]))
+('vel', array([[ 0.03261999],
+       [-0.00362259]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01555563],
+        [-0.02344308]]))
+('pwm_original', rightInput: [[-280.00129859]]
+leftInput: [[-421.97536397]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17970954 -1.63085409  0.94251394  0.9603553 ]
+ [-0.10508005  0.25880995 -1.93447549 -1.91568807]]
+(0.98524584522899838, array([ 0.12587549,  1.12226473]))
+('vel', array([[ 0.04204524],
+       [-0.0014344 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01599628],
+        [-0.02360838]]))
+('pwm_original', rightInput: [[-287.93307714]]
+leftInput: [[-424.95090994]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17975906 -1.63083092 -2.006065    1.00230215]
+ [-0.10508908  0.25886853 -2.05618195 -1.88846764]]
+(0.95559218155567749, array([ 0.16985044,  1.16275405]))
+('vel', array([[ 0.00946379],
+       [ 0.00114436]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01490229],
+        [-0.02299297]]))
+('pwm_original', rightInput: [[-268.24122408]]
+leftInput: [[-413.87346091]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17975465 -1.63083931 -2.00601165  0.94796647]
+ [-0.10507669  0.25891517 -2.05613733 -1.86077657]]
+(0.94730576086913054, array([ 0.16643289,  1.16195486]))
+('vel', array([[ -6.25184834e-06],
+       [  7.36673634e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01471914],
+        [-0.0228652 ]]))
+('pwm_original', rightInput: [[-264.94452304]]
+leftInput: [[-411.57354315]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17980073 -1.63085161 -2.00587444  0.91053738]
+ [-0.10508755  0.25889138 -2.0560177  -1.91749731]]
+(0.9564403145324597, array([ 0.17150883,  1.16438699]))
+('vel', array([[ 0.00780253],
+       [-0.00048687]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01487582],
+        [-0.02303128]]))
+('pwm_original', rightInput: [[-267.76478048]]
+leftInput: [[-414.56298547]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17979179 -1.63085519 -2.0059288   1.01037346]
+ [-0.10506873  0.25886582 -2.05598264 -1.90655301]]
+(0.9595078806664773, array([ 0.17176569,  1.16338336]))
+('vel', array([[ -1.16894760e-05],
+       [  1.09690982e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01494124],
+        [-0.02306182]]))
+('pwm_original', rightInput: [[-268.94227378]]
+leftInput: [[-415.11279524]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.1797918  -1.63086097 -2.00595822  0.92931609]
+ [-0.1050702   0.25879975 -2.05611037 -1.85821241]]
+(0.94580903399392391, array([ 0.16597158,  1.16196481]))
+('vel', array([[  2.38418364e-07],
+       [ -9.25571550e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01469134],
+        [-0.02284072]]))
+('pwm_original', rightInput: [[-264.4440497]]
+leftInput: [[-411.13289808]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17979816 -1.63083833 -2.00601497  0.92406801]
+ [-0.10510068  0.25882102 -2.05613158 -1.87792036]]
+(0.94950218654582563, array([ 0.16791874,  1.16289925]))
+('vel', array([[-0.00250433],
+       [-0.00091987]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01473672],
+        [-0.02291227]]))
+('pwm_original', rightInput: [[-265.26102438]]
+leftInput: [[-412.42077413]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17979763 -1.63081275 -2.00595645  0.91409125]
+ [-0.10511979  0.25887876 -2.05600919 -1.910398  ]]
+(0.95540195416100049, array([ 0.17100874,  1.16422383]))
+('vel', array([[  2.18093022e-06],
+       [ -1.05620047e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01485356],
+        [-0.02299838]]))
+('pwm_original', rightInput: [[-267.36404536]]
+leftInput: [[-413.97092924]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 3.17978049 -1.63083212 -2.00595616  0.94350786]
+ [-0.1050959   0.25884489 -2.05602925 -1.8558003 ]]
+(0.94613019641525631, array([ 0.16594238,  1.16180811]))
+('vel', array([[ -1.73358941e-05],
+       [  1.12848783e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01469527],
+        [-0.02284751]]))
+('pwm_original', rightInput: [[-264.51480245]]
+leftInput: [[-411.2551942]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 0.7806685  -1.63083268 -2.00603384  0.91078   ]
+ [-2.21225534  0.25881979 -2.05614922 -1.90682464]]
+(1.6870474556827424, array([ 1.13036729,  2.39262543]))
+('vel', array([[ 0.15676962],
+       [ 0.00192861]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.02484639],
+        [ 0.04597674]]))
+('pwm_original', rightInput: [[ 447.2349424]]
+leftInput: [[ 827.5814069]])
+('pwm', rightInput: 255
+leftInput: 255)
+[[ 0.78055307 -1.63083087 -2.00598313  0.91368318]
+ [-2.21215269  0.25883331 -2.0561142  -1.91831007]]
+(1.7028126403297139, array([ 1.15181347,  2.41134145]))
+('vel', array([[  1.17456843e-04],
+       [  3.52950758e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.02511494],
+        [ 0.04659979]]))
+('pwm_original', rightInput: [[ 452.06894395]]
+leftInput: [[ 838.7961711]])
+('pwm', rightInput: 255
+leftInput: 255)
+[[ 0.78045576 -1.63081156 -2.00598458  0.85967742]
+ [-2.2120444   0.25883202 -2.05605913 -2.04063497]]
+(1.8878264515461587, array([ 1.42187236,  2.63350665]))
+('vel', array([[  1.13734576e-04],
+       [  2.44372378e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.02655993],
+        [ 0.05168665]]))
+('pwm_original', rightInput: [[ 478.07873387]]
+leftInput: [[ 930.35978485]])
+('pwm', rightInput: 255
+leftInput: 255)
+[[ 0.78024743 -1.63083194 -2.00599729  0.88281329]
+ [-2.21177257  0.25885525 -2.0561171  -2.08232472]]
+(1.9404833512179582, array([ 1.49582314,  2.68736926]))
+('vel', array([[ 0.13080467],
+       [ 0.00046215]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.02657828],
+        [ 0.05295186]]))
+('pwm_original', rightInput: [[ 478.40900711]]
+leftInput: [[ 953.13347598]])
+('pwm', rightInput: 255
+leftInput: 255)
+[[ 3.23884099 -1.63083194 -2.00593831  0.84356091]
+ [-0.05117404  0.25885525 -2.05605396 -2.12829244]]
+(1.0022114486104756, array([ 0.19946866,  1.18257237]))
+('vel', array([[-1.83617298],
+       [-0.09246918]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00807616],
+        [ 0.01959191]]))
+('pwm_original', rightInput: [[-145.37079557]]
+leftInput: [[ 352.65434975]])
+('pwm', rightInput: [[-145.37079557]]
+leftInput: 255)
+[[ 3.23850127 -1.63085411 -2.0060313   0.8730839 ]
+ [-0.05012463  0.25887704 -2.05608776 -2.0626745 ]]
+(0.99241210197240581, array([ 0.19423633,  1.18134694]))
+('vel', array([[ -6.51388373e-04],
+       [ -4.95742794e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.011738  ],
+        [ 0.01842756]]))
+('pwm_original', rightInput: [[-211.28392615]]
+leftInput: [[ 331.69600783]])
+('pwm', rightInput: [[-211.28392615]]
+leftInput: 255)
+[[ 3.23826555 -1.63085411 -2.00598499  0.86455758]
+ [-0.04910203  0.25887704 -2.05610159 -2.10657607]]
+(0.9985073137971987, array([ 0.19703704,  1.18085315]))
+('vel', array([[ -6.53254788e-04],
+       [ -4.15993492e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01178107],
+        [ 0.01852354]]))
+('pwm_original', rightInput: [[-212.05933664]]
+leftInput: [[ 333.42368626]])
+('pwm', rightInput: [[-212.05933664]]
+leftInput: 255)
+[[ 3.23804772 -1.63082347 -2.00589374  0.85187996]
+ [-0.04793856  0.25890352 -2.05597997 -2.09786311]]
+(0.99610234965081257, array([ 0.19579729,  1.17991579]))
+('vel', array([[ -8.21002471e-04],
+       [ -4.79460799e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01178492],
+        [ 0.01845934]]))
+('pwm_original', rightInput: [[-212.1285532]]
+leftInput: [[ 332.26813229]])
+('pwm', rightInput: [[-212.1285532]]
+leftInput: 255)
+[[ 3.2377651  -1.63084901 -1.9989306   0.90049144]
+ [-0.04682369  0.25886766 -2.04908483 -2.09819179]]
+(0.99762704849863437, array([ 0.19614022,  1.17918537]))
+('vel', array([[ -7.73621457e-04],
+       [ -5.11522536e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01178797],
+        [ 0.01848556]]))
+('pwm_original', rightInput: [[-212.18349529]]
+leftInput: [[ 332.7400612]])
+('pwm', rightInput: [[-212.18349529]]
+leftInput: 255)
+[[ 3.23763922 -1.63080896 -2.00593626  0.84946807]
+ [-0.04576903  0.25891842 -2.05602015 -2.02625654]]
+(0.98356526609909667, array([ 0.18939128,  1.17832666]))
+('vel', array([[ -7.90003937e-04],
+       [ -4.01786852e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01173984],
+        [ 0.01820461]]))
+('pwm_original', rightInput: [[-211.31709864]]
+leftInput: [[ 327.68297753]])
+('pwm', rightInput: [[-211.31709864]]
+leftInput: 255)
+[[ 3.23743291 -1.63082196 -2.00596257  0.86782595]
+ [-0.04470171  0.25886674 -2.05605099 -2.05006393]]
+(0.98766584220471287, array([ 0.19092316,  1.17733564]))
+('vel', array([[ -7.68817454e-04],
+       [ -4.52523822e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01172345],
+        [ 0.01830331]]))
+('pwm_original', rightInput: [[-211.02210454]]
+leftInput: [[ 329.45952201]])
+('pwm', rightInput: [[-211.02210454]]
+leftInput: 255)
+[[ 0.77605474 -1.63083254 -2.0059419   0.90526476]
+ [-2.22262917  0.25885418 -2.05606989 -2.03473356]]
+(1.8705846051095043, array([ 1.39106585,  2.60806492]))
+('vel', array([[-0.03922026],
+       [-0.00106029]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04350929],
+        [ 0.01733325]]))
+('pwm_original', rightInput: [[-783.16718433]]
+leftInput: [[ 311.99849629]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.77605823 -1.63083417 -2.00594359  0.96874928]
+ [-2.22262462  0.2588631  -2.05605731 -2.08190502]]
+(1.9231525401990808, array([ 1.4602045 ,  2.65760213]))
+('vel', array([[ -4.14940567e-06],
+       [ -1.79968188e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04478637],
+        [ 0.0175061 ]]))
+('pwm_original', rightInput: [[-806.15459582]]
+leftInput: [[ 315.10985129]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.77605967 -1.63083315 -2.00591986  1.11408615]
+ [-2.22263778  0.25890299 -2.05606144 -2.28723892]]
+(2.1302860743774246, array([ 1.78169105,  2.87900637]))
+('vel', array([[  2.38923618e-06],
+       [  7.03127042e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04994307],
+        [ 0.01803293]]))
+('pwm_original', rightInput: [[-898.97528954]]
+leftInput: [[ 324.59281647]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.77608382 -1.63083401 -2.00601838  1.25099917]
+ [-2.22261873  0.25881904 -2.05614099 -2.35570363]]
+(2.1442431803935151, array([ 1.8103784 ,  2.89934914]))
+('vel', array([[ -2.22773183e-05],
+       [ -5.13895468e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.05035601],
+        [ 0.01803053]]))
+('pwm_original', rightInput: [[-906.40820696]]
+leftInput: [[ 324.54951061]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[ 0.77607597 -1.63082612 -2.00593015  1.35573257]
+ [-2.22261353  0.25883687 -2.05606086 -2.26021109]]
+(2.0788993078520948, array([ 1.68372134,  2.80853301]))
+('vel', array([[  4.42704792e-06],
+       [ -3.68953314e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04847847],
+        [ 0.01800455]]))
+('pwm_original', rightInput: [[-872.6123707]]
+leftInput: [[ 324.08184775]])
+('pwm', rightInput: -255
+leftInput: 255)
+[[-2.10114357 -1.63080781 -2.00597141  1.37426002]
+ [-1.81673568  0.25885311 -2.05609193 -2.24182158]]
+(2.0907395654307264, array([ 1.66761563,  2.77816086]))
+('vel', array([[ 2.03143526],
+       [-0.06606166]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.07124427],
+        [-0.02906736]]))
+('pwm_original', rightInput: [[-1282.39681048]]
+leftInput: [[-523.21239612]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-2.08851631 -1.63083958 -2.00594391  1.40777598]
+ [-1.84301944  0.25887911 -2.05606688 -2.14018391]]
+(1.9659152373048667, array([ 1.47461775,  2.64262222]))
+('vel', array([[-0.0034905 ],
+       [ 0.00130047]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0583972 ],
+        [-0.04477675]]))
+('pwm_original', rightInput: [[-1051.14958145]]
+leftInput: [[-805.9815835]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-2.08745578 -1.63080069 -2.0059713   1.49478599]
+ [-1.84308025  0.25887078 -2.05612129 -2.16996035]]
+(2.006005724123697, array([ 1.52389557,  2.6721016 ]))
+('vel', array([[ -6.14703347e-04],
+       [  3.50979903e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.04729733],
+        [-0.05865664]]))
+('pwm_original', rightInput: [[-851.35188218]]
+leftInput: [[-1055.81943006]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[-2.08083385 -1.63081033 -2.00600637  1.5184749 ]
+ [-1.84534252  0.25885569 -2.05613414 -2.02338264]]
+(1.8234766896634866, array([ 1.25251017,  2.46316097]))
+('vel', array([[ 0.88729092],
+       [ 0.11416676]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00075313],
+        [-0.05731225]]))
+('pwm_original', rightInput: [[ 13.55632255]]
+leftInput: [[-1031.62047824]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[ 3.23443757 -1.63081928 -2.00592409  1.69923557]
+ [-0.02854001  0.25882502 -2.05602991 -2.01753571]]
+(1.0270322533552538, array([ 0.19920966,  1.15363358]))
+('vel', array([[-0.32964802],
+       [ 0.296044  ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.02988182],
+        [-0.00157004]]))
+('pwm_original', rightInput: [[-537.87270242]]
+leftInput: [[-28.26070078]])
+('pwm', rightInput: -255
+leftInput: -90)
+[[ 3.25166683 -1.63080243 -2.00592851  1.81180177]
+ [-0.02205386  0.25882299 -2.05607485 -2.0355277 ]]
+(1.0448815399317568, array([ 0.21015497,  1.15933076]))
+('vel', array([[-0.839422  ],
+       [-0.00162655]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01119722],
+        [-0.02531861]]))
+('pwm_original', rightInput: [[-201.54990929]]
+leftInput: [[-455.73498393]])
+('pwm', rightInput: [[-201.54990929]]
+leftInput: -255)
+[[ 3.25124502 -1.63080478 -2.00591999  1.6683659 ]
+ [-0.02197537  0.25883351 -2.05606632 -2.21862294]]
+(1.0527702948454329, array([ 0.21507082,  1.15782157]))
+('vel', array([[ -3.79203799e-04],
+       [  6.44179645e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00401847],
+        [-0.02702031]]))
+('pwm_original', rightInput: [[-72.33243912]]
+leftInput: [[-486.36564621]])
+('pwm', rightInput: -90
+leftInput: -255)
+[[ 3.25078492 -1.63080097 -2.00593114  1.53119782]
+ [-0.02188616  0.25886081 -2.05605736 -2.17849839]]
+(1.0398906723682582, array([ 0.2097818 ,  1.16310082]))
+('vel', array([[ -2.96546371e-04],
+       [  1.29827045e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00062384],
+        [-0.02589121]]))
+('pwm_original', rightInput: [[ 11.22905365]]
+leftInput: [[-466.04183417]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[ 3.25034787 -1.63080235 -2.00594627  2.12043513]
+ [-0.02169889  0.2588604  -2.05606077  0.74190836]]
+(0.40097962760437211, array([-0.15864701,  0.2651518 ]))
+('vel', array([[ -1.99303225e-04],
+       [  1.90811293e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00048044],
+        [-0.01174568]]))
+('pwm_original', rightInput: [[-8.64800686]]
+leftInput: [[-211.42230184]])
+('pwm', rightInput: -90
+leftInput: [[-211.42230184]])
+[[ 3.24990978 -1.63081102 -2.00598094  1.71944114]
+ [-0.02168584  0.25881664 -2.0561548  -2.0034834 ]]
+(1.0331851231880869, array([ 0.2043057 ,  1.16075992]))
+('vel', array([[ -2.34350424e-04],
+       [  1.26264128e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00460077],
+        [-0.0243853 ]]))
+('pwm_original', rightInput: [[ 82.8139266]]
+leftInput: [[-438.93533004]])
+('pwm', rightInput: 90
+leftInput: -255)
+[[ 3.24948772 -1.63078995 -2.00599382  2.10423886]
+ [-0.02160415  0.25889885 -2.056084    0.74089713]]
+(0.39516961902990305, array([-0.15986781,  0.2608084 ]))
+('vel', array([[ -1.88252614e-04],
+       [  1.57546427e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00061422],
+        [-0.01134103]]))
+('pwm_original', rightInput: [[ 11.0559293]]
+leftInput: [[-204.13856693]])
+('pwm', rightInput: 90
+leftInput: [[-204.13856693]])
+[[ 3.24899072 -1.63081577 -2.00591571  1.53113679]
+ [-0.02151286  0.25884179 -2.05606312 -2.0768796 ]]
+(1.0270159630715248, array([ 0.20278393,  1.16364796]))
+('vel', array([[ -2.20707546e-04],
+       [  1.95909085e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00632472],
+        [-0.02346911]]))
+('pwm_original', rightInput: [[ 113.84501946]]
+leftInput: [[-422.44398041]])
+('pwm', rightInput: [[ 113.84501946]]
+leftInput: -255)
+[[ 3.24740411 -1.63080578 -2.00590161  1.35861604]
+ [-0.02058399  0.25884952 -2.0560481  -2.08724149]]
+(1.015804917075952, array([ 0.19843518,  1.1656559 ]))
+('vel', array([[-0.68412867],
+       [ 0.0501295 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00770952],
+        [-0.02098067]]))
+('pwm_original', rightInput: [[ 138.77138506]]
+leftInput: [[-377.65203021]])
+('pwm', rightInput: [[ 138.77138506]]
+leftInput: -255)
+[[ 3.24727299 -1.63082051 -2.00594735  1.30710885]
+ [-0.02133655  0.25884981 -2.05607515 -1.94595812]]
+(0.99213408970283379, array([ 0.18699962,  1.16689055]))
+('vel', array([[ -4.73612730e-04],
+       [ -1.93781588e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00797783],
+        [-0.02187907]]))
+('pwm_original', rightInput: [[ 143.60095841]]
+leftInput: [[-393.82318693]])
+('pwm', rightInput: [[ 143.60095841]]
+leftInput: -255)
+[[ 3.24682999 -1.63080065 -2.00594058  1.16891202]
+ [-0.02128734  0.25886473 -2.05609941 -2.00444378]]
+(0.99260243366698642, array([ 0.18888584,  1.16903259]))
+('vel', array([[ -1.79522587e-04],
+       [  1.65518919e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00829328],
+        [-0.02169845]]))
+('pwm_original', rightInput: [[ 149.27907396]]
+leftInput: [[-390.57211385]])
+('pwm', rightInput: [[ 149.27907396]]
+leftInput: -255)
+[[ 2.99874543 -1.63083271 -2.00589527  1.48467924]
+ [ 0.43705829  0.2589006  -2.05608568 -1.92031708]]
+(0.75344850177746459, array([ -6.33696544e-04,   8.01417670e-01]))
+('vel', array([[-0.14776138],
+       [ 0.00083841]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01386533],
+        [-0.01457488]]))
+('pwm_original', rightInput: [[-249.57598768]]
+leftInput: [[-262.34778523]])
+('pwm', rightInput: [[-249.57598768]]
+leftInput: -255)
+[[ 2.99864594 -1.63080096 -2.00594832  1.33275881]
+ [ 0.4370791   0.25883311 -2.05610211 -2.06364947]]
+(0.75737794716701878, array([ 0.00188445,  0.80132391]))
+('vel', array([[-0.10907646],
+       [-0.0010312 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01395744],
+        [-0.01468756]]))
+('pwm_original', rightInput: [[-251.2338404]]
+leftInput: [[-264.37613972]])
+('pwm', rightInput: [[-251.2338404]]
+leftInput: -255)
+[[ 2.99861534 -1.63081304 -2.00593506  1.31515484]
+ [ 0.43707775  0.2588342  -2.05610733 -2.3707384 ]]
+(0.78237007243529288, array([ 0.01138828,  0.79286062]))
+('vel', array([[ -2.18408028e-05],
+       [ -3.50714246e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01463782],
+        [-0.01503335]]))
+('pwm_original', rightInput: [[-263.48069219]]
+leftInput: [[-270.60026711]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 2.99835746 -1.63079153 -2.00593125  2.15463583]
+ [ 0.43713456  0.2588579  -2.05607635  0.8520408 ]]
+(0.41652561753658018, array([-0.15220357,  0.25587971]))
+('vel', array([[  1.78465179e-03],
+       [  7.42678859e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00933718],
+        [-0.00796739]]))
+('pwm_original', rightInput: [[-168.06916236]]
+leftInput: [[-143.41308613]])
+('pwm', rightInput: [[-168.06916236]]
+leftInput: [[-143.41308613]])
+[[ 2.9983593  -1.63080045 -2.00603012  1.35870105]
+ [ 0.43713554  0.2588639  -2.05617549 -2.37779211]]
+(0.78464095176510917, array([ 0.01203742,  0.79156674]))
+('vel', array([[  1.23154716e-06],
+       [  6.57443605e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01468665],
+        [-0.01505186]]))
+('pwm_original', rightInput: [[-264.35969716]]
+leftInput: [[-270.93344382]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 2.99835767 -1.63080939 -2.00599221  1.36398919]
+ [ 0.43713706  0.25881472 -2.05613689 -2.43804731]]
+(0.78947099694176326, array([ 0.01381338,  0.7891003 ]))
+('vel', array([[ -1.45277826e-06],
+       [  5.77808741e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01479217],
+        [-0.01509068]]))
+('pwm_original', rightInput: [[-266.25911616]]
+leftInput: [[-271.63227123]])
+('pwm', rightInput: -255
+leftInput: -255)
+[[ 2.53314078 -1.63081868 -2.00596353  1.40026027]
+ [ 0.46996782  0.25887451 -2.05610701 -2.38939082]]
+(0.54982813721788593, array([-0.11444265,  0.51203388]))
+('vel', array([[-0.03780393],
+       [ 0.00011627]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00467752],
+        [-0.01207738]]))
+('pwm_original', rightInput: [[-84.19531888]]
+leftInput: [[-217.39283468]])
+('pwm', rightInput: -90
+leftInput: [[-217.39283468]])
+[[ 2.5311398  -1.63081653 -2.00591327  1.38417496]
+ [ 0.46943992  0.25883071 -2.05609073 -2.42530634]]
+(0.54999557345226668, array([-0.11454927,  0.51035088]))
+('vel', array([[-1.30821354],
+       [ 0.00505095]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00313261],
+        [-0.01041544]]))
+('pwm_original', rightInput: [[-56.38701081]]
+leftInput: [[-187.47785287]])
+('pwm', rightInput: -90
+leftInput: [[-187.47785287]])
+[[ 2.53011681 -1.63080525 -2.00596952  1.41619128]
+ [ 0.4691815   0.25883695 -2.05614492 -2.46579958]]
+(0.55218126622625074, array([-0.11418463,  0.50798692]))
+('vel', array([[ -7.85051631e-04],
+       [  3.79184228e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00471558],
+        [-0.01215329]]))
+('pwm_original', rightInput: [[-84.88050061]]
+leftInput: [[-218.75917497]])
+('pwm', rightInput: -90
+leftInput: [[-218.75917497]])
+[[ 2.52910619 -1.63079449 -2.00595158  1.5193077 ]
+ [ 0.46890953  0.25883306 -2.05608913 -2.42333181]]
+(0.55330075461403738, array([-0.11413107,  0.50645586]))
+('vel', array([[ -7.76717024e-04],
+       [  3.05710748e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00471937],
+        [-0.01216835]]))
+('pwm_original', rightInput: [[-84.94857176]]
+leftInput: [[-219.03031402]])
+('pwm', rightInput: -90
+leftInput: [[-219.03031402]])
+[[ 2.49127733 -1.63078979 -2.00595341  1.47836459]
+ [ 0.45818135  0.25884274 -2.05612821 -2.3091262 ]]
+(0.53245229111960002, array([-0.12147516,  0.49513624]))
+('vel', array([[-1.42675819],
+       [ 0.00654308]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00207451],
+        [-0.00989934]]))
+('pwm_original', rightInput: [[-37.34119629]]
+leftInput: [[-178.1880483]])
+('pwm', rightInput: -90
+leftInput: [[-178.1880483]])
+[[ 2.49031942 -1.63077834 -2.00603549  1.29295283]
+ [ 0.45788106  0.2588144  -2.05619036 -2.3196565 ]]
+(0.52663499993512652, array([-0.12235467,  0.49837859]))
+('vel', array([[ -7.45238800e-04],
+       [  3.95003325e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00364905],
+        [-0.01168485]]))
+('pwm_original', rightInput: [[-65.68286646]]
+leftInput: [[-210.3273626]])
+('pwm', rightInput: -90
+leftInput: [[-210.3273626]])
+[[ 1.88937749 -1.63079672 -2.00593143  1.16965334]
+ [-0.38554179  0.25884371 -2.0561381  -2.56400697]]
+(0.49380617139558936, array([-0.12786167,  0.55964128]))
+('vel', array([[-0.9317247 ],
+       [ 0.01067215]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.01147664],
+        [ 0.00488326]]))
+('pwm_original', rightInput: [[ 206.57952635]]
+leftInput: [[ 87.89864554]])
+('pwm', rightInput: [[ 206.57952635]]
+leftInput: 90)
+[[ 1.88965161 -1.63083079 -2.00599538  1.27809636]
+ [-0.38646171  0.25888801 -2.05615411 -2.75884577]]
+(0.49531048532649391, array([-0.12780495,  0.55909136]))
+('vel', array([[ -6.77905808e-04],
+       [  5.82406638e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.01048974],
+        [ 0.0035765 ]]))
+('pwm_original', rightInput: [[ 188.81537967]]
+leftInput: [[ 64.37701718]])
+('pwm', rightInput: [[ 188.81537967]]
+leftInput: 90)
+[[ 1.88993472 -1.63078727 -2.00593522  1.42577744]
+ [-0.38732603  0.25883145 -2.05615168 -2.85966566]]
+(0.4959212236080297, array([-0.12759582,  0.55976398]))
+('vel', array([[ -7.32299189e-04],
+       [  5.07451604e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.01050038],
+        [ 0.00359988]]))
+('pwm_original', rightInput: [[ 189.00682527]]
+leftInput: [[ 64.79791506]])
+('pwm', rightInput: [[ 189.00682527]]
+leftInput: 90)
+[[ 1.89022923 -1.63079255 -2.005993    1.61991727]
+ [-0.38821567  0.25885429 -2.05616811 -2.91215983]]
+(0.49634984231641366, array([-0.12742389,  0.56036986]))
+('vel', array([[ -7.61429359e-04],
+       [  5.19816367e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.01050805],
+        [ 0.0036253 ]]))
+('pwm_original', rightInput: [[ 189.14498959]]
+leftInput: [[ 65.25537445]])
+('pwm', rightInput: [[ 189.14498959]]
+leftInput: 90)
+[[ 1.92522759 -1.63076718 -2.00597257  1.77953527]
+ [-0.47019528  0.25892439 -2.05611432 -2.87948673]]
+(0.54189133776740284, array([-0.10782678,  0.62471495]))
+('vel', array([[-1.37936965],
+       [ 0.0053273 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.01276063],
+        [ 0.00789013]]))
+('pwm_original', rightInput: [[ 229.69131361]]
+leftInput: [[ 142.02237431]])
+('pwm', rightInput: [[ 229.69131361]]
+leftInput: [[ 142.02237431]])
+[[ 2.45378923 -1.63076026 -2.00595754  2.19844406]
+ [-0.77830428  0.25884107 -2.05611784  0.823246  ]]
+(0.40515668735693677, array([-0.15961568,  0.29857612]))
+('vel', array([[-1.14220906],
+       [ 0.00791072]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00476151],
+        [ 0.01154793]]))
+('pwm_original', rightInput: [[ 85.70709628]]
+leftInput: [[ 207.86273305]])
+('pwm', rightInput: 90
+leftInput: [[ 207.86273305]])
+[[ 2.45476477 -1.63079724 -2.00607687  1.92549825]
+ [-0.77824622  0.25883842 -2.05621538 -2.99916266]]
+(0.95652621421790263, array([ 0.14492711,  1.12172052]))
+('vel', array([[ -7.57120578e-04],
+       [  2.95027867e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00245531],
+        [ 0.0221175 ]]))
+('pwm_original', rightInput: [[ 44.195516]]
+leftInput: [[ 398.11496077]])
+('pwm', rightInput: 90
+leftInput: 255)
+[[ 3.00383942 -1.63078856 -2.00598767  1.89665702]
+ [-0.08497205  0.25884158 -2.05614677 -3.23498751]]
+(0.98088787783143305, array([ 0.13311646,  0.96317895]))
+('vel', array([[-0.96161785],
+       [ 0.00811766]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.020955  ],
+        [ 0.00254044]]))
+('pwm_original', rightInput: [[-377.19000463]]
+leftInput: [[ 45.72798878]])
+('pwm', rightInput: -255
+leftInput: 90)
+[[ 2.25703574 -1.63078921 -2.00608807  1.81175912]
+ [ 0.7816525   0.25881441 -2.05621456 -3.18038538]]
+(0.44962968092545541, array([-0.14671399,  0.30412779]))
+('vel', array([[ 0.48341788],
+       [ 0.02058543]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00386118],
+        [-0.00967076]]))
+('pwm_original', rightInput: [[-69.50117693]]
+leftInput: [[-174.07368995]])
+('pwm', rightInput: -90
+leftInput: [[-174.07368995]])
+[[ 2.25748438 -1.63079053 -2.00597823  1.82992955]
+ [ 0.78275932  0.25884152 -2.05617638 -3.25253314]]
+(0.45158747374607677, array([-0.14587701,  0.30201775]))
+('vel', array([[ 0.4580493 ],
+       [ 0.01839485]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00371127],
+        [-0.0097121 ]]))
+('pwm_original', rightInput: [[-66.80291518]]
+leftInput: [[-174.81788871]])
+('pwm', rightInput: -90
+leftInput: [[-174.81788871]])
+[[ 2.25769576 -1.63080103 -2.00601913  1.22935468]
+ [ 0.78330751  0.25884431 -2.05616374  0.02299607]]
+(0.21523304651505759, array([-0.17343738,  0.20979012]))
+('vel', array([[  3.73829543e-04],
+       [  1.63893239e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00092164],
+        [-0.00546584]]))
+('pwm_original', rightInput: [[-16.58959958]]
+leftInput: [[-98.38507943]])
+('pwm', rightInput: -90
+leftInput: [[-98.38507943]])
+[[ 2.2581625  -1.63079004 -2.00591983  1.01972654]
+ [ 0.78441233  0.25886213 -2.05609443  0.03282147]]
+(0.17977635095041275, array([-0.16711746,  0.17384837]))
+('vel', array([[ 0.04523028],
+       [ 0.00166861]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00079629],
+        [-0.0048149 ]]))
+('pwm_original', rightInput: [[-14.33314628]]
+leftInput: [[-86.66811004]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 2.25840557 -1.63079416 -2.00607903  1.53366098]
+ [ 0.78496772  0.25882229 -2.05618227 -2.97084248]]
+(0.43941395581974596, array([-0.15039069,  0.31547689]))
+('vel', array([[  4.60308591e-04],
+       [  1.74006010e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00239732],
+        [-0.00925591]]))
+('pwm_original', rightInput: [[-43.15175613]]
+leftInput: [[-166.60630951]])
+('pwm', rightInput: -90
+leftInput: [[-166.60630951]])
+[[ 2.25865478 -1.63079218 -2.00605792  1.13237165]
+ [ 0.78550101  0.25880414 -2.05622436 -0.05171726]]
+(0.20883028189098193, array([-0.17176304,  0.21147023]))
+('vel', array([[  4.32489726e-04],
+       [  1.51711072e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00068943],
+        [-0.00533494]]))
+('pwm_original', rightInput: [[-12.40980759]]
+leftInput: [[-96.02891445]])
+('pwm', rightInput: -90
+leftInput: [[-96.02891445]])
+[[ 2.2648658  -1.63079566 -2.0060089   1.06296049]
+ [ 0.80568789  0.25883865 -2.05614496 -0.16201401]]
+(0.21522784435117126, array([-0.17106965,  0.22985361]))
+('vel', array([[ 1.17590608],
+       [ 0.03343541]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00121587],
+        [-0.00613727]]))
+('pwm_original', rightInput: [[-21.88557008]]
+leftInput: [[-110.47081334]])
+('pwm', rightInput: -90
+leftInput: [[-110.47081334]])
+[[ 2.24726869 -1.63078118 -2.00600994  0.95031607]
+ [ 0.63579695  0.25881521 -2.05617438 -0.06550052]]
+(0.18246504587824663, array([-0.16671409,  0.18620107]))
+('vel', array([[-1.73917779],
+       [-0.02976364]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00163775],
+        [ 0.00011304]]))
+('pwm_original', rightInput: [[-29.47947893]]
+leftInput: [[ 2.03479351]])
+('pwm', rightInput: -90
+leftInput: 90)
+[[ 2.2466157  -1.63076385 -2.00599112  1.9113916 ]
+ [ 0.63613662  0.2588483  -2.05612638 -3.26945572]]
+(0.45028180861347256, array([-0.14896395,  0.32408358]))
+('vel', array([[ -6.14774822e-04],
+       [ -1.05287517e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00880052],
+        [-0.00214277]]))
+('pwm_original', rightInput: [[-158.40944086]]
+leftInput: [[-38.56981238]])
+('pwm', rightInput: [[-158.40944086]]
+leftInput: -90)
+[[ 1.63580927 -1.63078993 -2.00597601  0.93012245]
+ [ 0.43018651  0.25885756 -2.05612052 -0.04680131]]
+(0.17671021446560545, array([-0.16566039,  0.17792335]))
+('vel', array([[-2.77032233],
+       [-0.00286805]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00317934],
+        [-0.00050062]]))
+('pwm_original', rightInput: [[ 57.2281117]]
+leftInput: [[-9.01107895]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.63477181 -1.63076732 -2.00594608  1.0778323 ]
+ [ 0.4295934   0.25885603 -2.05616648 -0.10463254]]
+(0.2011077646623266, array([-0.17062082,  0.20157876]))
+('vel', array([[ -9.28575529e-04],
+       [  8.10977469e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00036482],
+        [-0.00428234]]))
+('pwm_original', rightInput: [[-6.56679748]]
+leftInput: [[-77.08211383]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.63374774 -1.63079031 -2.00601416  1.89149051]
+ [ 0.42901934  0.25888345 -2.05619278 -3.0128105 ]]
+(0.2617432085514384, array([-0.17747606,  0.20431038]))
+('vel', array([[ -1.12139366e-03],
+       [  6.97725147e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00085429],
+        [-0.00508251]]))
+('pwm_original', rightInput: [[-15.37714225]]
+leftInput: [[-91.48518276]])
+('pwm', rightInput: -90
+leftInput: [[-91.48518276]])
+[[ 1.6317086  -1.63080567 -2.00595176  1.20526682]
+ [ 0.42783028  0.25880942 -2.05613041 -0.21254737]]
+(0.22043987129531994, array([-0.1735367 ,  0.21508374]))
+('vel', array([[ -3.86657158e+00],
+       [  2.98626295e-04]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.0044009],
+        [ 0.0002844]]))
+('pwm_original', rightInput: [[ 79.21627611]]
+leftInput: [[ 5.11916775]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.37377376 -1.63080586 -2.00603096  1.11992099]
+ [ 0.28961192  0.2588243  -2.05616322 -0.48958851]]
+(0.19861230022744669, array([-0.17058413,  0.19026348]))
+('vel', array([[-3.26965943],
+       [ 0.01656523]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00366348],
+        [ 0.00044929]]))
+('pwm_original', rightInput: [[ 65.94271627]]
+leftInput: [[ 8.08719289]])
+('pwm', rightInput: 90
+leftInput: 90)
+[[ 1.37269944 -1.63079357 -2.00598247  1.13435973]
+ [ 0.28908552  0.25882579 -2.05613656 -0.61353349]]
+(0.19980544827268468, array([-0.17080883,  0.19028196]))
+('vel', array([[ -1.09550908e-03],
+       [  2.41239033e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00018587],
+        [-0.00389254]]))
+('pwm_original', rightInput: [[-3.34567983]]
+leftInput: [[-70.06567697]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.37164338 -1.63079128 -2.00596776  1.0642108 ]
+ [ 0.28858763  0.25887972 -2.05610943 -0.75767237]]
+(0.19870317735207832, array([-0.17031062,  0.19104245]))
+('vel', array([[ -1.06689511e-03],
+       [  3.38551573e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00017084],
+        [-0.0038769 ]]))
+('pwm_original', rightInput: [[-3.07510686]]
+leftInput: [[-69.78423987]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.07471545 -1.63080342 -2.00601571  1.20550998]
+ [-0.15517323  0.25881449 -2.05615861 -0.94141999]]
+(0.21586999607020166, array([-0.17102384,  0.23134363]))
+('vel', array([[-1.74149658],
+       [ 0.13437907]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00393674],
+        [ 0.00637136]]))
+('pwm_original', rightInput: [[ 70.86125695]]
+leftInput: [[ 114.68447876]])
+('pwm', rightInput: 90
+leftInput: [[ 114.68447876]])
+[[ 1.08362983 -1.63078144 -2.00594919  1.3568151 ]
+ [-0.17774076  0.25883687 -2.05612643 -0.8994245 ]]
+(0.22214992407188677, array([-0.17150053,  0.23970357]))
+('vel', array([[-0.11109105],
+       [-0.00569935]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00063913],
+        [-0.00412803]]))
+('pwm_original', rightInput: [[-11.50436199]]
+leftInput: [[-74.3044745]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.0832039  -1.63080283 -2.00596702  1.27242928]
+ [-0.1780942   0.25883968 -2.05612445 -3.13594747]]
+(0.22211960920436929, array([-0.17148908,  0.23972191]))
+('vel', array([[ -3.64116196e-04],
+       [ -1.89125140e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00089269],
+        [-0.00418088]]))
+('pwm_original', rightInput: [[-16.0684175]]
+leftInput: [[-75.25592642]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.08234474 -1.63081677 -2.00599919  1.10474804]
+ [-0.17878076  0.25880704 -2.05614223 -2.9009173 ]]
+(0.22200616083300806, array([-0.17146215,  0.23969146]))
+('vel', array([[-0.63473123],
+       [-0.03062853]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00028741],
+        [-0.0038324 ]]))
+('pwm_original', rightInput: [[ 5.17334882]]
+leftInput: [[-68.98324514]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.08187242 -1.63079409 -2.00593222  1.01378023]
+ [-0.17913212  0.25885099 -2.05610236 -2.76800817]]
+(0.22206656033126915, array([-0.17145913,  0.23981528]))
+('vel', array([[ -4.36019978e-04],
+       [ -2.14400876e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00098625],
+        [-0.00417354]]))
+('pwm_original', rightInput: [[-17.75249191]]
+leftInput: [[-75.12376964]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.08046954 -1.63078734 -2.00600313  1.15803216]
+ [-0.18013389  0.25886844 -2.05614088 -2.95842475]]
+(0.22209500072598687, array([-0.17144596,  0.23994617]))
+('vel', array([[-0.99023324],
+       [-0.04883571]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00087714],
+        [-0.00364528]]))
+('pwm_original', rightInput: [[ 15.78850241]]
+leftInput: [[-65.61497327]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.07712914 -1.6308178  -2.00597857  1.07944483]
+ [-0.18217241  0.2588107  -2.05613946 -2.92623818]]
+(0.22187763717535897, array([-0.17138644,  0.23993491]))
+('vel', array([[-1.21693135],
+       [-0.05755069]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.001078  ],
+        [-0.00345544]]))
+('pwm_original', rightInput: [[ 19.40408073]]
+leftInput: [[-62.19791976]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.0766488  -1.63078461 -2.00596368  0.94134496]
+ [-0.18244587  0.25885486 -2.05611258 -2.91627967]]
+(0.22186250876906743, array([-0.17138115,  0.23994111]))
+('vel', array([[ -4.21326690e-04],
+       [ -1.95884587e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00131817],
+        [-0.00412419]]))
+('pwm_original', rightInput: [[-23.72697265]]
+leftInput: [[-74.23542011]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.0761895  -1.63079692 -2.00595592  0.79276188]
+ [-0.18271725  0.258879   -2.05609787 -3.00735504]]
+(0.22187120583166647, array([-0.17136911,  0.24003005]))
+('vel', array([[ -4.00571885e-04],
+       [ -1.96125021e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0013477 ],
+        [-0.00411865]]))
+('pwm_original', rightInput: [[-24.25866328]]
+leftInput: [[-74.13574206]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.07348184 -1.63078205 -2.00600862  1.36650248]
+ [-0.18434206  0.25887107 -2.05608965 -1.05872966]]
+(0.22167827881897859, array([-0.17130964,  0.24005843]))
+('vel', array([[-0.92252775],
+       [-0.05266315]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00040405],
+        [-0.00369668]]))
+('pwm_original', rightInput: [[ 7.27297881]]
+leftInput: [[-66.54026102]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.0730118  -1.63080867 -2.0059302   0.76437359]
+ [-0.18459598  0.25887028 -2.05610227 -3.08498882]]
+(0.22167827881897859, array([-0.17130964,  0.24005843]))
+('vel', array([[ -4.18042786e-04],
+       [ -2.14457198e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00155144],
+        [-0.00406726]]))
+('pwm_original', rightInput: [[-27.92585814]]
+leftInput: [[-73.21059863]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.07255139 -1.63080889 -2.00595562  1.47310318]
+ [-0.18483692  0.25886295 -2.05610436 -0.85117022]]
+(0.22165849607686852, array([-0.1713039 ,  0.24005902]))
+('vel', array([[ -3.81209369e-04],
+       [ -1.93745295e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00157951],
+        [-0.00405903]]))
+('pwm_original', rightInput: [[-28.43119575]]
+leftInput: [[-73.06262936]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.07115758 -1.63077524 -2.00594973  1.40729785]
+ [-0.18558428  0.2588603  -2.05606643 -0.79684754]]
+(0.22154929091511669, array([-0.17128635,  0.23997605]))
+('vel', array([[-0.95347493],
+       [-0.0527325 ]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00030327],
+        [-0.00361557]]))
+('pwm_original', rightInput: [[ 5.45886038]]
+leftInput: [[-65.08024978]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[ 1.06810951 -1.63080992 -2.00598493  1.46953676]
+ [-0.18704585  0.25880102 -2.05615649 -0.7490497 ]]
+(0.22125408074738181, array([-0.17122018,  0.2398644 ]))
+('vel', array([[-1.09061074],
+       [-0.05547866]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ 0.00035306],
+        [-0.00342238]]))
+('pwm_original', rightInput: [[ 6.35499803]]
+leftInput: [[-61.60276519]])
+('pwm', rightInput: 90
+leftInput: -90)
+[[-1.60479634 -1.63080194 -2.00601495  1.44004741]
+ [ 0.24666237  0.25881571 -2.05617094 -1.06491838]]
+(0.048032890072388743, array([-0.08411026,  0.06131668]))
+('vel', array([[ 0.00474609],
+       [-0.00053529]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[ -7.09226227e-05],
+        [ -3.56654389e-04]]))
+('pwm_original', rightInput: [[-1.27660721]]
+leftInput: [[-6.41977901]])
+('pwm', rightInput: -90
+leftInput: -90)
+[[ 1.43965998 -1.63081804 -2.00598251  1.41462716]
+ [-0.86835225  0.25884609 -2.05614043 -0.88150144]]
+(0.57955741644406733, array([-0.06397582,  0.7656773 ]))
+('vel', array([[  1.60019308e-04],
+       [  3.31190437e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.00995277],
+        [ 0.00345059]]))
+('pwm_original', rightInput: [[-179.14990229]]
+leftInput: [[ 62.110571]])
+('pwm', rightInput: [[-179.14990229]]
+leftInput: 90)
+[[ 1.44847472 -1.63082747 -2.00607803  0.76515736]
+ [-0.89359029  0.25880446 -2.05619088 -3.08791226]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  1.04410175e-04],
+       [ -2.50657354e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054624],
+        [ 0.00331027]]))
+('pwm_original', rightInput: [[-189.8323975]]
+leftInput: [[ 59.5847906]])
+('pwm', rightInput: [[-189.8323975]]
+leftInput: 90)
+[[ 1.4484727  -1.63081586 -2.00601569  0.76520847]
+ [-0.89350995  0.25884572 -2.05613514 -3.08772993]]
+(0.60049952774613014, array([-0.05309222,  0.79383803]))
+('vel', array([[-0.00353332],
+       [ 0.00030606]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054111],
+        [ 0.00332152]]))
+('pwm_original', rightInput: [[-189.73991025]]
+leftInput: [[ 59.78732724]])
+('pwm', rightInput: [[-189.73991025]]
+leftInput: 90)
+[[ 1.44845774 -1.63080274 -2.00600873 -1.63911592]
+ [-0.89352401  0.25888546 -2.05608433  0.23058418]]
+(0.55712683228246229, array([-0.00461249,  0.81316805]))
+('vel', array([[ -8.05799395e-04],
+       [  6.73078594e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01033876],
+        [ 0.00253267]]))
+('pwm_original', rightInput: [[-186.09762916]]
+leftInput: [[ 45.58813052]])
+('pwm', rightInput: [[-186.09762916]]
+leftInput: 90)
+[[ 1.44841517 -1.63082069 -2.00602611 -1.63912909]
+ [-0.89358105  0.25879662 -2.05615893  0.23053772]]
+(0.55692709845204913, array([-0.00475031,  0.81281452]))
+('vel', array([[ -2.62742364e-03],
+       [ -6.11661875e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0103304 ],
+        [ 0.00253337]]))
+('pwm_original', rightInput: [[-185.94718317]]
+leftInput: [[ 45.6007177]])
+('pwm', rightInput: [[-185.94718317]]
+leftInput: 90)
+[[ 1.44841816 -1.63083206 -2.00602956  0.76515836]
+ [-0.89357603  0.25879018 -2.05615148 -3.08778754]]
+(0.60049952774613014, array([-0.05309222,  0.79383803]))
+('vel', array([[ -4.95945613e-06],
+       [ -1.89407716e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054072],
+        [ 0.00331335]]))
+('pwm_original', rightInput: [[-189.73293606]]
+leftInput: [[ 59.64036838]])
+('pwm', rightInput: [[-189.73293606]]
+leftInput: 90)
+[[ 1.44842467 -1.63082504 -2.00602394  0.76532502]
+ [-0.89356993  0.25881974 -2.05609667 -3.08819538]]
+(0.60049952774613014, array([-0.05309222,  0.79383803]))
+('vel', array([[-0.02067208],
+       [-0.00073212]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01050365],
+        [ 0.00332926]]))
+('pwm_original', rightInput: [[-189.06576011]]
+leftInput: [[ 59.92675078]])
+('pwm', rightInput: [[-189.06576011]]
+leftInput: 90)
+[[ 1.44840219 -1.63084086 -2.00605744 -1.63915482]
+ [-0.89359565  0.25874027 -2.05615488  0.23049197]]
+(0.55696725127906765, array([-0.00475876,  0.81280751]))
+('vel', array([[  1.74906789e-03],
+       [  5.96552847e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01033743],
+        [ 0.00253112]]))
+('pwm_original', rightInput: [[-186.07367045]]
+leftInput: [[ 45.5602461]])
+('pwm', rightInput: [[-186.07367045]]
+leftInput: 90)
+[[ 1.44840134 -1.63082326 -2.00601815  0.76509743]
+ [-0.89360273  0.25884427 -2.05613756 -3.08754486]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  5.50207118e-06],
+       [  1.84068715e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054466],
+        [ 0.00331384]]))
+('pwm_original', rightInput: [[-189.8039345]]
+leftInput: [[ 59.64918668]])
+('pwm', rightInput: [[-189.8039345]]
+leftInput: 90)
+[[ 1.44840393 -1.63085813 -2.00592306  0.76515119]
+ [-0.89360956  0.25889906 -2.05600371 -3.08780636]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  3.50470040e-06],
+       [  3.23385094e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054496],
+        [ 0.00331337]]))
+('pwm_original', rightInput: [[-189.80926237]]
+leftInput: [[ 59.64058582]])
+('pwm', rightInput: [[-189.80926237]]
+leftInput: 90)
+[[ 1.44840101 -1.6308335  -2.00598219  0.76514535]
+ [-0.89361856  0.25886979 -2.05608214 -3.08781767]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  7.45823255e-06],
+       [  1.40181496e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054479],
+        [ 0.00331373]]))
+('pwm_original', rightInput: [[-189.80615257]]
+leftInput: [[ 59.64713137]])
+('pwm', rightInput: [[-189.80615257]]
+leftInput: 90)
+[[ 1.44839623 -1.6308274  -2.00597899  0.7651942 ]
+ [-0.89361965  0.25883806 -2.05607897 -3.08779339]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  2.95221376e-06],
+       [ -1.77502340e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054492],
+        [ 0.00331345]]))
+('pwm_original', rightInput: [[-189.8085241]]
+leftInput: [[ 59.64216851]])
+('pwm', rightInput: [[-189.8085241]]
+leftInput: 90)
+[[ 1.44838822 -1.63085203 -2.00607176  0.76534398]
+ [-0.89361958  0.25882332 -2.05616531 -3.08832363]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[  3.60540094e-06],
+       [ -3.50681677e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054432],
+        [ 0.0033145 ]]))
+('pwm_original', rightInput: [[-189.79776865]]
+leftInput: [[ 59.66106809]])
+('pwm', rightInput: [[-189.79776865]]
+leftInput: 90)
+[[ 1.44838772 -1.63084417 -2.00603726  0.76530678]
+ [-0.89361334  0.25877526 -2.05617933 -3.08817282]]
+(0.60049952774613014, array([-0.05309222,  0.79383803]))
+('vel', array([[ -3.99833742e-06],
+       [ -2.08111013e-07]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054008],
+        [ 0.00331463]]))
+('pwm_original', rightInput: [[-189.72145304]]
+leftInput: [[ 59.66340759]])
+('pwm', rightInput: [[-189.72145304]]
+leftInput: 90)
+[[ 1.44839369 -1.63082628 -2.00600254  0.76521166]
+ [-0.89360892  0.2588251  -2.05608109 -3.08789653]]
+(0.60069926157654341, array([-0.05295441,  0.79419156]))
+('vel', array([[ -4.30945423e-06],
+       [  9.76660832e-08]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01054452],
+        [ 0.0033141 ]]))
+('pwm_original', rightInput: [[-189.80130366]]
+leftInput: [[ 59.65388059]])
+('pwm', rightInput: [[-189.80130366]]
+leftInput: 90)
+[[ 1.44838025 -1.63081405 -2.00601859 -1.63913589]
+ [-0.8935994   0.2588685  -2.0561298   0.2305718 ]]
+(0.55712683228246229, array([-0.00461249,  0.81316805]))
+('vel', array([[-0.03301723],
+       [ 0.00071082]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01030802],
+        [ 0.00258247]]))
+('pwm_original', rightInput: [[-185.54440739]]
+leftInput: [[ 46.48451225]])
+('pwm', rightInput: [[-185.54440739]]
+leftInput: 90)
+[[ 1.44837    -1.63081943 -2.00600367 -1.63915786]
+ [-0.89359951  0.25887228 -2.05608677  0.23060209]]
+(0.5571810761574334, array([-0.00463377,  0.81316148]))
+('vel', array([[ -9.15538517e-04],
+       [  8.86718132e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01033824],
+        [ 0.0025361 ]]))
+('pwm_original', rightInput: [[-186.08828563]]
+leftInput: [[ 45.64986903]])
+('pwm', rightInput: [[-186.08828563]]
+leftInput: 90)
+[[ 1.44837556 -1.6308193  -2.00598759 -1.63916488]
+ [-0.89360348  0.25886805 -2.05609532  0.23058611]]
+(0.5571810761574334, array([-0.00463377,  0.81316148]))
+('vel', array([[  1.69923045e-03],
+       [ -6.57774055e-06]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01034104],
+        [ 0.00252959]]))
+('pwm_original', rightInput: [[-186.13866647]]
+leftInput: [[ 45.53269643]])
+('pwm', rightInput: [[-186.13866647]]
+leftInput: 90)
+[[ 1.44837254 -1.63080933 -2.00602025 -1.63909857]
+ [-0.89359372  0.25886309 -2.05611286  0.23053582]]
+(0.55707704086405052, array([-0.00461064,  0.81317918]))
+('vel', array([[  1.14748212e-03],
+       [ -1.51113792e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01033952],
+        [ 0.00252902]]))
+('pwm_original', rightInput: [[-186.11143904]]
+leftInput: [[ 45.52236289]])
+('pwm', rightInput: [[-186.11143904]]
+leftInput: 90)
+[[ 1.44839641 -1.63082823 -2.00601989 -1.63916885]
+ [-0.89362033  0.25884403 -2.05611326  0.23056126]]
+(0.5571810761574334, array([-0.00463377,  0.81316148]))
+('vel', array([[  7.75290294e-04],
+       [ -3.80470357e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.01033966],
+        [ 0.00253002]]))
+('pwm_original', rightInput: [[-186.11391225]]
+leftInput: [[ 45.54029759]])
+('pwm', rightInput: [[-186.11391225]]
+leftInput: 90)
+[[ 1.44837702 -1.63083833 -2.00601469 -1.6391656 ]
+ [-0.89355458  0.25883445 -2.05610282  0.23061152]]
+(0.55698134232702001, array([-0.00477158,  0.81280795]))
+('vel', array([[ -8.35154305e-04],
+       [ -6.32886957e-05]]), 'wr', 0, 'wL', 0)
+('tau', matrix([[-0.0103329 ],
+        [ 0.00253154]]))
+('pwm_original', rightInput: [[-185.99211734]]
+leftInput: [[ 45.56774325]])
+('pwm', rightInput: [[-185.99211734]]
+leftInput: 90)
+
+
